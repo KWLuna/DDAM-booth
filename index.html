@@ -171,9 +171,9 @@ fetch('boothData.json')
       var cell3 = row.insertCell(2);
       var cell4 = row.insertCell(3);
 
-      cell1.textContent = booth.boothName;
-      cell2.textContent = booth.socials.join(", ");
-      cell3.textContent = booth.boothTable;
+      cell1.textContent = booth.boothTable;
+      cell2.textContent = booth.boothName;
+      cell3.textContent = booth.socials.join(", ");
       cell4.textContent = booth.merchandise.join(", ");
     });
   }
