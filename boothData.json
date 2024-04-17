@@ -1,15 +1,1687 @@
 [
-    {
-      "boothName": "(˶‾᷄ ⁻̫ ‾᷅˵)",
-      "socials": ["https://www.instagram.com/sanukett/", "https://www.instagram.com/desirine_/", "https://www.instagram.com/gyoukaito/","https://www.instagram.com/chuunshi","https://www.instagram.com/19kmph/"],
-      "boothTable": "Table 1",
-      "merchandise": ["NIJISANJI, OMORI, LOUT OF COUNT'S FAMILY (LCF), RESIDENT EVIL, ZENO, ZEROBASEONE (ZB1), LOVE & DEEPSPACE (LND) , PLAVE, BLUE LOCK, NU CARNIVAL, BUNGOU STRAY DOGS (BSD), OMNISCIENT READER'S VIEWPOINT (ORV), HONKAI STAR RAIL (HSR), TRIGUN STAMPEDE, IDENTITY V (IDV), GENSHIN"]
-    },
-    {
-      "boothName": "Booth 2",
-      "socials": ["Facebook", "Twitter"],
-      "boothTable": "Table 2",
-      "merchandise": ["Manga Books", "Keychains"]
-    }
-  ]
-  
+  {
+    "boothTable": "H7",
+    "boothName": "(˶‾᷄ ⁻̫ ‾᷅˵)",
+    "socials": "\nhttps://www.instagram.com/sanukett/ , https://www.instagram.com/desirine_/ , https://www.instagram.com/gyoukaito/ , https://www.instagram.com/chuunshi , https://www.instagram.com/19kmph/ \n",
+    "merchandise": "\n\nNIJISANJI, OMORI, LOUT OF COUNT'S FAMILY (LCF), RESIDENT EVIL, ZENO, ZEROBASEONE (ZB1), LOVE &amp; DEEPSPACE (LND) , PLAVE, BLUE LOCK, NU CARNIVAL, BUNGOU STRAY DOGS (BSD), OMNISCIENT READER'S VIEWPOINT (ORV), HONKAI STAR RAIL (HSR), TRIGUN STAMPEDE, IDENTITY V (IDV), GENSHIN\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Allenerie",
+    "socials": "Www.allenerie.com",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, FINAL FANTASY 14, ORIGINAL WORKS.\n\n"
+  },
+  {
+    "boothName": "Artist Triangle",
+    "socials": "\nhttps://www.instagram.com/npcdragonboi/ , https://www.instagram.com/peeppq/ https://www.instagram.com/aphelion__ic/ https://linktr.ee/tamago_aki \n",
+    "merchandise": "\n\nPEEPQ: - TRANSFORMERS - HAZBIN HOTEL - NIJISANJI EN - HOLOSTARS EN - DUNGEON MESHI - GENSHIN - HONKAI STAR RAIL - TRIGUNAPHELION__IC:- GENSHIN- ARKNIGHTS- VOCALOID- COOKIE RUNTAMAGO_AKI:- STAR WARS- BOTTOMS- DISCO ELYSIUM- ORIGINAL ARTNPCDRAGONBOI:- IDV- FNAF- QSMP- ORIGINAL ART\n\n"
+  },
+  {
+    "boothName": "Astrea",
+    "socials": "www.instagram.com/astreaa_",
+    "merchandise": "\n\nORIGINALS, GENSHIN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothName": "Babuland",
+    "socials": "\nhttps://www.instagram.com/parfaitbird/ , https://www.instagram.com/fuwafuwabunny1/ \n",
+    "merchandise": "\n\nSTARRAIL, GENSHIN, ORV, TEARS OF THEMIS (MAYBE SOME OTHER ANIMES ADDED LATER)\n\n"
+  },
+  {
+    "boothName": "bbluebellies",
+    "socials": "https://www.instagram.com/bbluebellies/",
+    "merchandise": "\n\nONE PIECE, STUDIO GHIBLI, GENSHIN, JUJUTSU KAISEN, ORIGINAL WORKS, DEMON SLAYER, HUNTERXHUNTER, VALORANT, CHAINSAW MAN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "B1",
+    "boothName": "Brother Ming Games",
+    "socials": "https://www.brotherminggames.com/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothName": "Chomon",
+    "socials": "Instagram.com/chodan_chomon",
+    "merchandise": "\n\nONE PIECE, STUDIO GHIBLI FILMS, DEMON SLAYER, JUJUTSU KAISEN, ATTACK ON TITAN, HUNTER X HUNTER, AVATAR, OMNISCIENT READER'S VIEWPOINT, HAIKYU, MY HERO ACADEMIA, BLACK CLOVER, FRUITS BASKET, OURAN, JOJO'S BIZZARE ADVENTURES ETC\n\n"
+  },
+  {
+    "boothTable": "B8",
+    "boothName": "Circus-Usagi",
+    "socials": "https://circus-usagi.art/",
+    "merchandise": "\n\nORIGINAL WORKS, HEARTSTEEL, LEGEND OF ZELDA\n\n"
+  },
+  {
+    "boothName": "clown towndown town",
+    "socials": "\n\"https://clowntowndowntown.carrd.co/#catalogue \"\"https://www.instagram.com/sky.vein/ \" \"https://www.instagram.com/bb.ityl/ \" \"https://linktr.ee/ivystar.art \"\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, JUJUTSU KAISEN, TRIGUN, PHINEAS AND FERB, GRAVITY FALLS, ADVENTURE TIME, THE OWL HOUSE\n\n"
+  },
+  {
+    "boothName": "CurryNoodle Art",
+    "socials": "https://www.instagram.com/currynoodleart?igshid=OGQ5ZDc2ODk2ZA%3D%3D",
+    "merchandise": "\n\nHOLOLIVE / HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "A9",
+    "boothName": "DARU",
+    "socials": "https://twitter.com/daruo_0",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, PERSONA 5, FRIEREN(UPCOMING)\n\n"
+  },
+  {
+    "boothName": "Daydreamer",
+    "socials": "https://www.instagram.com/mandadadadada/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, JUJU KAISEN, ETC\n\n"
+  },
+  {
+    "boothTable": "A22",
+    "boothName": "Del lwl",
+    "socials": "https://twitter.com/del__lwl",
+    "merchandise": "\n\nHONKAI: STAR RAIL, ARKNIGHTS, OMNISCIENT READER'S VIEWPOINT, LINK CLICK, GENSHIN, FRIEREN, BOCCHI THE ROCK, RETURN OF MOUNT HUA SECT\n\n"
+  },
+  {
+    "boothName": "Feyi x Seventynone",
+    "socials": "\nhttps://feyi131.carrd.co/#catalog , https://instagram.com/seventynone \n",
+    "merchandise": "\n\nGENSHIN, DEMON SLAYER, BLUE LOCK, SHXTOU, PARADOX LIVE, NIJISANJI EN, TEARS OF THEMIS, VOCALOID, DR.STONE, ORIGINAL WORKS, OSHI NO KO, HEAVEN OFFICIAL'S BLESSING, VANITAS NO CARTE, BUNGO STRAY DOGS.\n\n"
+  },
+  {
+    "boothTable": "A2",
+    "boothName": "heyjonut",
+    "socials": "\nhttps://instagram.com/heyjonut , https://instagram.com/bloomittens \n",
+    "merchandise": "\n\nORIGINAL WORKS, POKEMON, JUJUTSU KAISEN, GENSHIN, HONKAI: STAR RAIL, BREATH OF THE WILD, VTUBERS (NIJISANJI JP AND EN)\n\n"
+  },
+  {
+    "boothName": "Hira Icigocha",
+    "socials": "www.instagram.com/15cha_hira",
+    "merchandise": "\n\nORIGINAL WORKS, APEX LEGENDS, DANGANRONPA, NEEDY STREAMER OVERLOAD, NIKKE, VOCALOID, BOCCHI THE ROCK\n\n"
+  },
+  {
+    "boothName": "Jei",
+    "socials": "https://www.instagram.com/jaayes_/",
+    "merchandise": "GENSHIN"
+  },
+  {
+    "boothName": "Jellysoup",
+    "socials": "\nwww.instagram.com/soupjyam ,www.instagram.com/ailythe \n",
+    "merchandise": "\n\nORIGINAL WORKS, NIJISANJI EN, VTUBER, HONKAI STARRAIL, GENSHIN, OWL HOUSE, GRAVITY FALLS, ADVENTURE TIME\n\n"
+  },
+  {
+    "boothTable": "A5",
+    "boothName": "Kabayao",
+    "socials": "\nhttps://www.instagram.com/yaobaee/ , https://www.instagram.com/kabanokii/ \n",
+    "merchandise": "\n\nTWISTED WONDERLAND, BLACK BUTLER, MADOKA MAGICA, MDZS, ZELDA, GENSHIN, APOTHECARY DIARIES,\n\n"
+  },
+  {
+    "boothName": "Karasoba X Onibijutsu xCipher",
+    "socials": "\nhttps://www.instagram.com/karasu.soba , https://www.instagram.com/onibijutsu , https://www.instagram.com/cipher4109 \n",
+    "merchandise": "\n\nJUJUTSU KAISEN, HONKAI STARRAIL, REVERSE: 1999, CHAINSAWMAN, VTUBERS\n\n"
+  },
+  {
+    "boothName": "karqmie/saltyboos",
+    "socials": "https://saltyboos.com/",
+    "merchandise": "\n\nSPLATOON 3, GENSHIN, POKEMON, HONKAI: STAR RAIL, HAIKYUU!, PATH TO NOWHERE, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Kaypoh Cats",
+    "socials": "\n\n\nhttps://kaypohcat.carrd.co/? https://pomokatalogue.carrd.co/ https://kajunmypantsportfolio.carrd.co/ https://kaffeetea.carrd.co/ \n\n\n"
+  },
+  {
+    "boothName": "kyamaruu",
+    "socials": "https://www.instagram.com/kyamaruu/",
+    "merchandise": "\n\nGENSHIN, ORIGINAL WORKS, VTUBERS(NIJISANJI/ HOLOLIVE/INDIE/VSHOJO), TEARS OF THE KINGDOM(ZELDA), VOCALOID, JUJUTSU KAISEN, CHAINSAWMAN, THE AMAZING DIGITAL CIRCUS\n\n"
+  },
+  {
+    "boothTable": "A8",
+    "boothName": "Ladywaltz &amp; HAE",
+    "socials": "\nhttps://ladywaltz.carrd.co/ ,https://twitter.com/heyhaemee \n",
+    "merchandise": "\n\nGENSHIN, PATH TO NOWHERE, HONKAI: STAR RAIL, CASTLEVANIA\n\n"
+  },
+  {
+    "boothTable": "A3",
+    "boothName": "Leonie",
+    "socials": "https://twitter.com/Leonie2814",
+    "merchandise": "\n\nGENSHIN, HONKAI STARRAIL, VOCALOID, ORV\n\n"
+  },
+  {
+    "boothName": "Littlehecki",
+    "socials": "https://www.instagram.com/littlehecki/",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Makrows, Shoucchi96",
+    "socials": "\nhttps://www.instagram.com/makrows/ , https://www.instagram.com/shoucchi96/ \n",
+    "merchandise": "\n\nHONKAI STAR RAIL, GENSHIN, VALORANT, ONE PIECE, ARKNIGHTS, LOVE AND DEEPSPACE, KAMEN RIDER AND ELECEED\n\n"
+  },
+  {
+    "boothName": "Maple Chicken",
+    "socials": "\nhttps://twitter.com/bunnyclvb?t=Jf6ac5_2HrSnuvuEb49DIg&amp;s=09 , https://instagram.com/funr1n?igshid=MzMyNGUyNmU2YQ== , https://instagram.com/angiefronds?igshid=MzMyNGUyNmU2YQ== \n",
+    "merchandise": "\n\nGENSHIN, ORIGINAL WORKS, SLAM DUNK, HONKAI: STAR RAIL, ORV,\n\n"
+  },
+  {
+    "boothTable": "A6, A7",
+    "boothName": "Meowmeowgirl",
+    "socials": "https://www.instagram.com/meowmeowgirl/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, HONKAI IMPACT 3RD, SHELTER: PORTER ROBINSON &amp; MADEON\n\n"
+  },
+  {
+    "boothName": "Micabuns",
+    "socials": "https://www.instagram.com/micabuns/",
+    "merchandise": "\n\nJUJUTSU KAISEN, AOT, CHAINSAW MAN, FRIEREN, DEMON SLAYER\n\n"
+  },
+  {
+    "boothName": "miothle's atelier",
+    "socials": "\nhttps://www.instagram.com/miothle/ , https://www.instagram.com/miothle.atelier/ \n",
+    "merchandise": "\n\nGENSHIN, REVERSE 1999, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothName": "MoriCreatives",
+    "socials": "\nhttps://himashuillust.carrd.co/ , https://www.instagram.com/myion.art/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAILS, NIJISANJI, ARKNIGHTS, ORIGINAL WORKS, KOREAN NOVELS(ORV/SCLASSES/DEBUTORDIE), OSHI NO KO, REVERSE1999\n\n"
+  },
+  {
+    "boothName": "Myaoruki",
+    "socials": "https://www.instagram.com/myaoruki/",
+    "merchandise": "\n\nJUJUTSU KAISEN, ONE PIECE, ATTACK ON TITAN, GENSHIN, HONKAI: STAR RAIL, NIJISANJI EN VTUBER, K9KURO (VSHOJO)\n\n"
+  },
+  {
+    "boothName": "Nisemori",
+    "socials": "https://www.instagram.com/nisemori_04/",
+    "merchandise": "HOLOLIVE"
+  },
+  {
+    "boothName": "No-Pain Cool-Stain",
+    "socials": "\nhttps://instagram.com/nopain_coolstain?igshid=YTQwZjQ0NmI0OA%3D%3D&amp;utm_source=qr \n",
+    "merchandise": "\n\nORIGINAL WORK\n\n"
+  },
+  {
+    "boothTable": "B7",
+    "boothName": "Nocturnal Fwends",
+    "socials": "https://nocturnalfwends.carrd.co",
+    "merchandise": "\n\nGENSHIN, HAIKYUU, NARUTO, BATMAN/DC, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Oishikunare",
+    "socials": "\nhttps://www.facebook.com/oishikunaredoujin PDXen https://twitter.com/pd_xen Kazeo https://twitter.com/Karei026 VCCC https://twitter.com/shengkai167 リンキ https://twitter.com/rinki0579 冬瓜冰茶 https://twitter.com/WMiceTea Kazeo https://twitter.com/KazeoYuurinART Hiro https://twitter.com/HiroChair Fujioni https://twitter.com/fujioniace Sky https://www.facebook.com/SkyFreeDom.CandyClub \n",
+    "merchandise": "\n\nBLUE ARCHIVE, HOLOLIVE, AZURLANE, GENSHIN, HONKAI: STAR RAIL, NIKKE, AND ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "A11,A12",
+    "boothName": "prinzcake &amp; rachelhuey",
+    "socials": "\nhttps://instagram.com/prinzcakeart/ , https://www.instagram.com/rachelhueyart/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, FFXIV, JUJUTSU KAISEN, ARKNIGHTS, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Rokuuso",
+    "socials": "\ninstagram.com/rokuuso , instagram.com/_shizuen \n",
+    "merchandise": "\n\nVTUBERS (HOLOLIVE, NIJISANJI, ETC), VALORANT, GENSHIN\n\n"
+  },
+  {
+    "boothName": "saltska",
+    "socials": "https://heromix.carrd.co/",
+    "merchandise": "\n\nFINAL FANTASY XIV, ORIGINALS, BALDUR'S GATE III (GIVEAWAYS)\n\n"
+  },
+  {
+    "boothName": "Sarah Thursday",
+    "socials": "Sarahthursday.co",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Sherms no Kamishibai Ya",
+    "socials": "https://www.instagram.com/shermstan/",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Shiki / Twilichu",
+    "socials": "https://twilichu.carrd.co/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, BALDURS GATE 3\n\n"
+  },
+  {
+    "boothName": "Shinnnart",
+    "socials": "\nhttps://instagram.com/shinnnart?igshid=MzMyNGUyNmU2YQ%3D%3D&amp;utm_source=qr \n",
+    "merchandise": "\n\nHOLOLIVE, NIJISANJI, GENSHIN, ORIGINAL, VOCALOID\n\n"
+  },
+  {
+    "boothName": "Smashed Beans",
+    "socials": "\nhttps://smashedbeans.carrd.co/ , https://www.instagram.com/astra.ordinaire/ , https://www.instagram.com/blurguppy/?hl=en , https://twitter.com/laoyeJT/status/1654166967798865920?t=ul-GriaD4783Mmss6G_7SA&amp;s=19 ,\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, WITCH HAT ATELIER, POKEMON, ACE ATTORNEY, NARUTO, LEAGUE OF LEGENDS, JUJUTSU KAISEN, PLAVE,\n\n"
+  },
+  {
+    "boothName": "soufflepunch",
+    "socials": "https://www.instagram.com/soufflepunch/",
+    "merchandise": "\n\nOSHI NO KO, SPY X FAMILY, FRUITS BASKET, CHAINSAWMAN, HONKAI: STAR RAIL, GENSHIN, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Soumeki",
+    "socials": "https://www.instagram.com/sr_soumeki/",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, IDENTITY V, TEARS OF THEMIS, ORIGINAL WORKS, ENSEMBLE STARS, ONE PIECE, HAIKYUU, ORV, MY S-CLASS HUNTERS, NIJISANJI EN, TRIGUN STAMPEDE.\n\n"
+  },
+  {
+    "boothName": "SRKORK",
+    "socials": "https://www.instagram.com/srkork/",
+    "merchandise": "\n\nJUJUTSU KAISEN, GENSHIN, SPIDERMAN:ATSV, ORIGINAL WORKS, CHAINSAW MAN, RESIDENT EVIL, THE LAST OF US\n\n"
+  },
+  {
+    "boothName": "Superb Comet",
+    "socials": "\nhttps://twitter.com/_MIRAI99 , https://twitter.com/mania8522191 \n",
+    "merchandise": "HOLOLIVE"
+  },
+  {
+    "boothTable": "B4",
+    "boothName": "syansoup",
+    "socials": "\nhttps://www.instagram.com/syenions/ , https://www.instagram.com/constellartist/ , https://www.instagram.com/ksooup/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI:HONKAI: STAR RAIL, TWISTED WONDERLAND, NIJISANJI EN, DETECTIVE COMICS (DC), CHAINSAW MAN, OMNISCIENT READER'S VIEWPOINT, BALDUR'S GATE 3, IDENTITY V\n\n"
+  },
+  {
+    "boothTable": "B3",
+    "boothName": "Tamaffles",
+    "socials": "\nhttps://0waff537.carrd.co , https://akinerui.carrd.co \n",
+    "merchandise": "\n\nGENSHIN, VTUBERS, HONKAI STARRAIL, ORIGINAL WORKS, SASAKI TO MIYANO, MY NEW BOSS IS GOOFY, VARIOUS CLASSIC SHOUJO ANIMES, LINK CLICK, JUJUTSU KAISEN, KAGEROU PROJECT, ANIMAL CROSSING, RPG MAKER GAMES, STUDIO GHIBLI\n\n"
+  },
+  {
+    "boothName": "Tea&amp;Buns",
+    "socials": "https://portaly.cc/tea_n_buns",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, MEMES\n\n"
+  },
+  {
+    "boothName": "The Sparkling Water",
+    "socials": "\nhttps://www.instagram.com/popuribun/ , https://www.instagram.com/kurousakun/?hl=en , https://www.instagram.com/hitomijx_/?hl=en \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, ORIGINAL WORKS , NIKKE, FRIEREN, FFVII REMAKE, DUNGEON MESHI, LOVE AND DEEPSPACE AND PROJECT SEKAI\n\n"
+  },
+  {
+    "boothName": "TOYFATT",
+    "socials": "\nhttps://www.instagram.com/toyfatt/ , https://twitter.com/Usatorii , https://twitter.com/icanuseanoven , https://www.instagram.com/iaihoshi/ \n",
+    "merchandise": "\n\nGENSHIN, ARKNIGHTS, NIKKE, BLUE ARCHIVE, POKEMON.\n\n"
+  },
+  {
+    "boothName": "WWfanart",
+    "socials": "\nhttps://instagram.com/wwfanart_merch?igshid=NzZlODBkYWE4Ng== ,https://x.com/yngh41109180?t=2Gvy8w4ViOm0k-SK8SmB8A&amp;s=09 ,https://x.com/LikeAlways_0806?t=gIxmCTfgYRcJGRO9IpK47A&amp;s=09 ,\n",
+    "merchandise": "\n\nBLUELOCK, JUJUTSU KAISEN, HAIKYUU!, BUNGO STRAY DOGS, JOJO'S BIZZARE ADVENTURE\n\n"
+  },
+  {
+    "boothTable": "A10",
+    "boothName": "Xeph's Artworks",
+    "socials": "https://www.pixiv.net/en/users/110174",
+    "merchandise": "\n\nBLUE ARCHIVE, FRIEREN, BOCCHI, HONKAI, GENSHIN\n\n"
+  },
+  {
+    "boothName": "Xuanllli",
+    "socials": "\n\nhttps://xuanllli.wixsite.com/xuanllli/portfolio-1\n\n"
+  },
+  {
+    "boothName": "Yui &amp; Beansprout Co.",
+    "socials": "\nhttps://www.instagram.com/jeanbeansprout/ , https://www.instagram.com/yui.itsu/ \n",
+    "merchandise": "\n\nGENSHIN IMPACT HONKAI: STAR RAIL FATE SERIES CHAINSAW MAN BLUE LOCK MADOKA MAGICA THE APOTHECARY DIARIES SPY X FAMILY CAMPFIRE COOKING IN ANOTHER WORLD HAMEFURA ENSEMBLE STARS IDOLISH7 TWISTED WONDERLAND VARIOUS OTOME GAMES\n\n"
+  },
+  {
+    "boothName": "Yunicomo x Lunko",
+    "socials": "\nhttps://www.instagram.com/yunicomo/ , https://www.instagram.com/lunko_art/ \n",
+    "merchandise": "\n\nARKNIGHTS, NEEDY GIRL OVERDOSE, LEGEND OF ZELDA, VTUBERS(NIJISANJI/HOLOLIVE), VOCALOID, SPLATOON 3, KIRBY, SOUSOU NO FRIEREN, DUNGEON MESHI, GENSHIN IMPACT, HONKAI STAR RAIL, SPY X FAMILY\n\n"
+  },
+  {
+    "boothName": "YuraxMae &amp; Kuehmerlion",
+    "socials": "\nhttps://www.instagram.com/yurax.mae/ https://www.instagram.com/kuehmerlion/ \n",
+    "merchandise": "\n\nHONKAI IMPACT 3RD, HOLOLIVE, REVERSE 1999, HONKAI: STAR RAIL, GENSHIN, ORIGINAL WORKS (KUEH ART), CHAINSAW MAN, BANG DREAM, PUELLA MAGI MADOKA MAGICA\n\n"
+  },
+  {
+    "boothName": "711",
+    "socials": "\nhttps://www.instagram.com/e1_11ven?utm_source=ig_web_button_share_sheet&amp;igsh=ZDNlZDc0MzIxNw== https://www.instagram.com/youq.i77/ \n",
+    "merchandise": "\n\nHOLOSTARS, VTUBERS, ENSEMBLE STARS, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "⟡ Jyyin x Hui Hui ⟡",
+    "socials": "\nhttps://jyyin00catalogue.carrd.co/ , https://feat.my/creators/araisketchma/ \n",
+    "merchandise": "\n\nGENSHIN POLAROIDS, LIVE COMMISSION, ORIGINAL WORKS !\n\n"
+  },
+  {
+    "boothName": "Rainbowpopcorn x Awenart x Art of Yudine",
+    "socials": "\nhttps://www.instagram.com/rainbowpopcorn9/ ,https://www.instagram.com/awensw/ ,https://www.instagram.com/yudineart/ \n",
+    "merchandise": "\n\nTWISTED WONDERLAND, HONKAI: STAR RAIL, ORIGINAL WORKS, ORV, BLUELOCK, LINK CLICK\n\n"
+  },
+  {
+    "boothName": "Linearise x Plain Jane Studios",
+    "socials": "\nhttps://plainjanestudios.carrd.co/ , https://linearise.carrd.co/ \n",
+    "merchandise": "\n\nJUJUTSU KAISEN, GENSHIN, KIRBY, CHAINSAW MAN, LEGEND OF ZELDA, SPY X FAMILY, HONKAI: STAR RAIL, MAPLESTORY, POKEMON, THE APOTHECARY DIARIES, STUDIO GHIBLI\n\n"
+  },
+  {
+    "boothName": "Pen Palz",
+    "socials": "\nhttps://www.instagram.com/sqewree/, https://www.instagram.com/_sleeping.ocean_/\n",
+    "merchandise": "\n\nHEAVEN OFFICIAL'S BLESSING, SCUM VILLAIN SELF-SAVING SYSTEM, GRANDMASTER OF DEMONIC CULTIVATION, HANAKO KUN OF THE TOILET, STARDEW VALLEY, ONE PIECE, OVERWATCH, CHAINSAWMAN, SPY X FAMILY, NEEDY STREAMER OVERLOAD, KUSURIYA NO HITORIGOTO, MONONOKE, HAZBIN HOTEL, JUJUTSU KAISEN, MAGICAL GIRL SITE, SAYA NO UTA, ORIGINAL WORK/OCS, VALORANT, NIJISANJI\n\n"
+  },
+  {
+    "boothName": "_tt.rex_",
+    "socials": "\nhttps://dainoso.godaddysites.com/con-portfolio \n",
+    "merchandise": "\n\nSOUL EATER, LEGEND OF ZELDA TOTK, TRIGUN STAMPEDE, ORIGINAL WORKS, STUDIO GHIBLI, RESIDENT EVIL, BLEACH, GENSHIN, DIGIMON,\n\n"
+  },
+  {
+    "boothName": "frantic x soberty",
+    "socials": "\nInstagram.com/franticcreativity Instagram.com/sobertycrafts \n",
+    "merchandise": "\n\nORIGINAL WORKS (YAMI KAWAII)ORIGINAL WORKS (CUTE DUCKS WITH KNIVES)GENSHIN\n\n"
+  },
+  {
+    "boothName": "Meowlting wonderland",
+    "socials": "\n 1.@sodast4rs https://www.instagram.com/sodast4rs?igshid=OGQ5ZDc2ODk2ZA== 2. @blunder_fishhttps://www.instagram.com/blunder_fish/ 3. @xy_thenekohttps://www.instagram.com/xy_theneko/ 4. @d1cedclawshttps://www.instagram.com/d1cedclaws?igshid=OGQ5ZDc2ODk2ZA== 5. @ren.ruiihttps://www.instagram.com/ren.ruii?igshid=OGQ5ZDc2ODk2ZA== \n",
+    "merchandise": "\n\nORIGINAL WORKS, GENSHIN, HONKAI: STAR RAIL, PROJECT SEKAI COLOURFUL STAGE, VTUBERS-(HOLOLIVE, NIJISANJI, VSHOUJO), DEATH NOTE, CHAINSAW MAN, IDENTITY V, TOYKO GHOUL, ATTACK ON TITAN, NARUTO, JUJITSU KAISEN\n\n"
+  },
+  {
+    "boothName": "&lt;2zuku",
+    "socials": "\nhttps://www.facebook.com/2zuku?mibextid=ZbWKwL, https://instagram.com/_2zuku?igshid=MzNlNGNkZWQ4Mg==\n"
+  },
+  {
+    "boothName": "70sMexi &amp; TastyKuri",
+    "socials": "\nMexi: https://70smexi.carrd.co/ Kuri: https://tastykuriportfolio.carrd.co/ \n",
+    "merchandise": "\n\nMEXI: OMORI, FINAL FANTASY XIV, ONESHOT, DANGANRONPA, ORIGINAL WORKSKURI: BOCCHI, CHAINSAWMAN, VA-11-HALL-A\n\n"
+  },
+  {
+    "boothName": "Adylaineart",
+    "socials": "\nhttps://www.instagram.com/adylaineart, https://twitter.com/adylaineart , https://www.tiktok.com/@adylaineart\n",
+    "merchandise": "\n\nHAZBIN HOTEL, GENSHIN, HONKAI: STAR RAIL, ORV\n\n"
+  },
+  {
+    "boothName": "aglio olio",
+    "socials": "\nhttps://www.instagram.com/hyeeool/, https://www.instagram.com/usagiihoshi/\n",
+    "merchandise": "\n\nVTUBER, PLAVE, HONKAI: STAR RAIL, BALDURS GATE 3, PROSEKAI, PERSONA 3, ORIGINAL WORK\n\n"
+  },
+  {
+    "boothName": "Ance's Cat Spa",
+    "socials": "\nhttps://twitter.com/AnceCatSpa/status/1685943489731940353 , https://twitter.com/CPXapple/status/1690022513504665600 , https://twitter.com/milupurins/status/1689591843896602624 , https://twitter.com/AnceCatSpa/status/1689827096670175232 \n",
+    "merchandise": "\n\nFINAL FANTASY XIV, HONKAI: STAR RAIL, GENSHIN, ONE PIECE, PROJECT SEKAI, MOBILE LEGEND, HOLOLIVE, CHAINSAW MAN, LYCORECO, OSHI NO KO, JOJO, FGO, KINGDOM HEARTS, FFXVI, SPY X FAMILY, PATH TO NOWHERE, NIER, DEMON SLAYER\n\n"
+  },
+  {
+    "boothName": "Animal Shelter",
+    "socials": "\nwww.instagram.com/etherael_/ , www.instagram.com/wooferrae.art/, www.instagram.com/dojiuka/ \n",
+    "merchandise": "\n\nGENSHIN, NIJISANJI, AVATAR,BG3, ANIMAL, MARVEL, ORIGINAL ART\n\n"
+  },
+  {
+    "boothName": "Apple and Friends",
+    "socials": "\nhttps://www.instagram.com/appleandfriends_/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothName": "Appleapie_Art",
+    "socials": "\nhttps://www.instagram.com/appleapie_art/ \n",
+    "merchandise": "\n\nTOKUSATSU AND ANIME\n\n"
+  },
+  {
+    "boothName": "Ayumeume",
+    "socials": "https://www.instagram.com/ayumeume.png/",
+    "merchandise": "\n\nHONKAI: STAR RAIL, MOBILE LEGENDS, ORIGINAL WORKS, SPY X FAMILY, THE APOTHECARY DIARIES, AND MANY MORE\n\n"
+  },
+  {
+    "boothName": "BABABA BANYANYA",
+    "socials": "\nhttps://www.instagram.com/syin_w312/ , https://www.instagram.com/allustrationss/\n",
+    "merchandise": "\n\n-VTUBERS (NIJISANJI EN/JP , VSHOJO, INDIE)-GENSHIN-POKEMON-HAIKYUU-DEMON SLAYER-JUJUTSU KAISEN-CARDCAPTOR SAKURA-THE APOTHECARY DIARIES-ORIGINAL ARTWORKS\n\n"
+  },
+  {
+    "boothName": "Chizuboba",
+    "socials": "\nhttps://www.instagram.com/baibtrad/, https://twitter.com/eebybb , https://twitter.com/kitsmitts\n",
+    "merchandise": "\n\nLINK CLICKGENSHIN IMPACTHONKAI STAR RAIL REVERSE 1999HAIKYUUOMINISCENT READER'S VIEWPOINT JUJUTSU KAISENPOKEMON PROJECT SEKAI NEEDY STREAMER OVERLOADDUNGEON MESHIKORORONDEATH MARKBOCCHI THE ROCKDANDADAN\n\n"
+  },
+  {
+    "boothName": "Banana &amp; Yishy",
+    "socials": "\nhttps://www.instagram.com/bananana2217/, https://www.instagram.com/yishyre/\n",
+    "merchandise": "\n\nGENSHIN, OMNISCIENT READER'S VIEWPOINT, HONKAI: STAR RAIL, REVERSE1999, BUNGOU STRAY DOGS, FRIEREN, HAIKYUU, HEAVEN OFFICIAL'S BLESSING\n\n"
+  },
+  {
+    "boothName": "Bento Palette",
+    "socials": "\nhttps://linktr.ee/bentopalette \n"
+  },
+  {
+    "boothName": "Berry Winkle",
+    "socials": "https://www.instagram.com/berry_winkle_/",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Aglio Olio",
+    "socials": "\nhttps://www.instagram.com/berugarden/ , https://www.instagram.com/kisalovesart/ , https://www.instagram.com/waf.tga/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, BALDUR'S GATE 3, PERSONA 5, SPIDERVERSE, NIJISANJI EN, IDOLM@STER, UMA MUSUME, POKEMON, SOME ORIGINAL CREATIONS\n\n"
+  },
+  {
+    "boothName": "bobilaru",
+    "socials": "\nhttps://www.instagram.com/toomuchlipids , https://www.instagram.com/capybee , https://www.instagram.com/v33nd3tta , https://www.instagram.com/khaiartz_official \n"
+  },
+  {
+    "boothTable": "A13",
+    "boothName": "Boyfailure Coalition",
+    "socials": "\nhttps://www.instagram.com/tangeri84921 https://x.com/xiaolanarts https://www.instagram.com/ukiyoxu \n",
+    "merchandise": "\n\nORIGINALSGENSHIN HONKAI STAR RAILWITCH HAT ATELIER OMNISCIENT READER’S VIEWPOINT ONE PIECE BUNGOU STRAY DOGS LINK CLICK HAZBIN HOTEL GUARDIAN FRIEREN MAIRIMASHITA IRUMA KUNTHE GREATEST ESTATE DEVELOPER I BECAME A GOD IN A HORROR GAME BALDUR’S GATE 3 FAREWELL MY CONCUBINE (1993) LORD OF THE MYSTERIES BEASTARS LIE HUO JIAO CHOU\n\n"
+  },
+  {
+    "boothName": "Bozo Bazaar",
+    "socials": "\nLassie Fair: https://ko-fi.com/myfairlassie/gallery Beanscribs: https://www.instagram.com/beanscribs/ Knoxsketches: https://instagram.com/KnoxSketches \n",
+    "merchandise": "\n\nSPIDER-VERSE, CRITICAL ROLE, GOOD OMENS, IDENTITY V, JUJUTSU KAISEN, SPYXFAMILY, ONE PIECE, NARUTO, DUNGEON MESHI, ORIGINAL CONTENT\n\n"
+  },
+  {
+    "boothTable": "A29",
+    "boothName": "Bread Dippers",
+    "socials": "\nhttps://twitter.com/SharkTuna , https://twitter.com/paegeon , https://twitter.com/mootecky , https://twitter.com/OddBiscuitCrumb , https://www.instagram.com/shibekary/ \n",
+    "merchandise": "\n\nARKNIGHTS, NIJISANJI, PARADOX LIVE, HAZBIN HOTEL, ONE PIECE, POKEMON, OVERWATCH, TOUHOU\n\n"
+  },
+  {
+    "boothName": "Bunbun Co.",
+    "socials": "\nhttps://bunbunco.carrd.co \n",
+    "merchandise": "\n\nFINAL FANTASY 14, NIJISANJI (VTUBER), SPLATOON, PROJECT SEKAI, OMORI, ACE ATTORNEY, DOKIBIRD (VTUBER), K9KURO (VTUBER), HOLOLIVE &amp; HOLOSTAR (VTUBERS), HONKAI STAR RAIL, DUNGEONS AND DRAGONS (TABLETOP), THE HOUSE IN FATA MORGANA\n\n"
+  },
+  {
+    "boothName": "butabear00",
+    "socials": "https://www.instagram.com/butabear00/",
+    "merchandise": "\n\nJUJUTSU KAISEN, SPY FAMILY, 19 DAYS, PAYBACK, ORV, GIVEN, SASAKI TO MIYANO, CANDY COLOR PARADOX, SUPER LOVERS, DAKARETAI OTOKO 1-I NI ODOSARETE IMASU, TEARS OF THEMIS, CLASSROOM OF THE ELITE, BLUELOCK\n\n"
+  },
+  {
+    "boothName": "BUTTERSPOON",
+    "socials": "\nInstagram.com/butterspoonofficial \n",
+    "merchandise": "\n\nHOLOLIVE, ANIME/GAME SERIES, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "CallmeCia",
+    "socials": "\nhttps://instagram.com/marciafortunaa?igshid=eWV2NXFodGRja2Rr&amp;utm_source=qr \n",
+    "merchandise": "\n\nORIGINAL WORKS, STUDIO GHIBLI, POKEMON, DISNEY\n\n"
+  },
+  {
+    "boothName": "Can 2 Cai Fan Aunties",
+    "socials": "\nhttps://www.instagram.com/moonlingyuee/ | https://www.instagram.com/a3137_/ | https://instagram.com/rebeccaaa_artz | https://instagram.com/limmo_art | https://www.instagram.com/aarys__/ \n",
+    "merchandise": "\n\nGENSHINHONKAI: STAR RAILNIJISANJI ENHOLOLIVE ENCHAINSAW MANJUJUTSU KAISENTHE LEGEND OF ZELDATHE GREAT ACE ATTORNEYSTUDIO GHIBLI MOVIESSKIP &amp; LOAFER\n\n"
+  },
+  {
+    "boothName": "cant4bile",
+    "socials": "\n\"https://www.instagram.com/cant4bile/ \" \"https://www.twitch.tv/cantabile94 \"\n",
+    "merchandise": "\n\nVTUBER (TWITCH STREAMERS, HOLOLIVE..ETC), HONKAI: STAR RAIL, BOCHI THE ROCK, FATE GRAND ORDER\n\n"
+  },
+  {
+    "boothName": "Studio Bee",
+    "socials": "\nwww.studiobee.com.sg (@studiobee_sg IG)\n",
+    "merchandise": "\n\nORIGINAL WORKS, SANRIO, CARE BEARS\n\n"
+  },
+  {
+    "boothName": "Warung ceileen",
+    "socials": "\nhttps://www.instagram.com/imceileen?igsh=MTY1N2loOXg1dzMzdw%3D%3D&amp;utm_source=qr \n",
+    "merchandise": "\n\nJUJUTSU KAISEN, HAIKYUU, HONKAINHONKAI: STAR RAIL, SOME OTHERS MIXED SHOUNEN\n\n"
+  },
+  {
+    "boothName": "Breadgetters",
+    "socials": "\nhttps://www.instagram.com/iceikopop?igsh=MTFra2M5YXNtdHRrOA== \n",
+    "merchandise": "\n\nARKNIGHTS, DUNGEON MESHI, HONKAI: STAR RAIL, FFXIV, FRIEREN, GENSHIN, STUDIO GHIBLI\n\n"
+  },
+  {
+    "boothName": "CheetArts",
+    "socials": "\nhttps://www.instagram.com/cheetarts/ \n",
+    "merchandise": "\n\nGENSHIN, HOLOLIVE, HONKAI: STAR RAIL, OVERWATCH\n\n"
+  },
+  {
+    "boothName": "Kawaii x Daddy",
+    "socials": "\nInstagram.com/aki.no.e_ , Instagram.com/the.potatolab \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, JUJUTSU KAISEN, GENSHIN, HAIKYUU!!, HUNTER X HUNTER, CHAINSAW MAN, ONE PIECE\n\n"
+  },
+  {
+    "boothName": "chromaticdrip &amp; mihailviola",
+    "socials": "\n\"https://chromaticdrip.etsy.com \"\"https://www.instagram.com/mihail_viola/ \"\n",
+    "merchandise": "\n\nHONKAI: STAR RAILGENSHINWARRIOR CATSPOKEMONOSHI NO KOKLONOA 2\n\n"
+  },
+  {
+    "boothName": "Chromel",
+    "socials": "\nhttps://www.instagram.com/chromelxd/ \n",
+    "merchandise": "\n\nZELDA, THE OWL HOUSE, BEASTARS, SPY FAMILY, DEMON SLAYER, MIRACULOUS LADYBUG, ELDEN RING, DESTINY 2\n\n"
+  },
+  {
+    "boothName": "cl.pepperin",
+    "socials": "https://www.instagram.com/cl.pepperin/",
+    "merchandise": "\n\nGENSHIN, HAIKYUU, WINX CLUB, MONSTER HIGH, HOLOTEMPUSEN, BLUE LOCK\n\n"
+  },
+  {
+    "boothName": "Clown Alley",
+    "socials": "\nhttps://clown-alley.carrd.co/ \n",
+    "merchandise": "\n\nHOLOSTARS EN, GENSHIN, HONKAI: STAR RAIL, BALDUR'S GATE 3, DUNGEON MESHI, GOOD OMENS, ACE ATTORNEY, CHAINSAW MAN, SLAM DUNK, GOLDEN KAMUY, OVERWATCH, SKY CHILDREN OF THE LIGHT, TRIGUN, ORIGINAL WORKS AND MORE!\n\n"
+  },
+  {
+    "boothName": "clueyc, phluffery, pingdoko",
+    "socials": "\nhttps://www.instagram.com/clueyc https://www.instagram.com/phluffery https://www.instagram.com/pingdoko \n",
+    "merchandise": "\n\nORIGINAL CHARACTERS, BOCCHI THE ROCK, BEASTARS, INUYASHA, MP100, K-POP(STRAY KIDS), HOLOLIVE, TRASH TASTE, SLAM DUNK AND MORE.\n\n"
+  },
+  {
+    "boothName": "TAX X EVASION",
+    "socials": "\nhttps://kihhoki.carrd.co/#portfolio , https://rionull.carrd.co/#v \n",
+    "merchandise": "\n\nPROJECT SEKAI, REVERSE: 1999, FFXIV, ORIGINAL WORKS, VTUBERS, POKEMON, RAGNAROK ONLINE, SPIDERMAN, HONKAI: STAR RAIL, GRANBLUE FANTASY\n\n"
+  },
+  {
+    "boothName": "100KG ENJOYER",
+    "socials": "\n\"“ https://www.facebook.com/doufu1013/posts/pfbid02PJzXE6khWZ9fUXHizHd9VjuiZ1rJuvndFH6SoWivkzEkhovQ6DSta3s8D4yjFVa6l https://www.instagram.com/doufu1013/ \"\"” https://www.pixiv.net/users/64425228?fbclid=IwAR22hC2Dn2E31PXOi1eDsXLMK0XWBK5Ccr0y4qx_IejdeXIz6hQBYH4y8tE https://www.facebook.com/photo.php?fbid=6788709601172097&amp;set=pb.100000993740844.-2207520000&amp;type=3 “\"\n",
+    "merchandise": "\n\nBLUE ARCHIVE, VTUBER (HOLOLIVE JP), GODDESS OF VICTORY: NIKKE\n\n"
+  },
+  {
+    "boothName": "Crying Art Students 🥹",
+    "socials": "\nmeiriane.carrd.co ,https://www.instagram.com/bysmolmich/ ,https://www.instagram.com/spacethyme/ ,https://www.instagram.com/iso_robo/?hl=en ,https://instagram.com/yolk_yart3?igshid=MmJiY2I4NDBkZg== ,https://www.instagram.com/joannabertilla/\n",
+    "merchandise": "\n\nGENSHIN, CRAYON SHIN-CHAN, MY CHEMICAL ROMANCE, SPIDERVERSE, VOCALOID, FGO, NANA, ORIGINAL WORKS, MOB PSYCHO 100, ONE PIECE, DEMON SLAYER, SCOTT PILGRIM, CHAINSAWMAN, PROJECT SEKAI, BEASTARS, OMORI\n\n"
+  },
+  {
+    "boothName": "cwdw.merch",
+    "socials": "\ntwitter.com/cwdwcwdw , https://www.instagram.com/cwdw.merch/ \n",
+    "merchandise": "\n\nDIGIMON, POKEMON\n\n"
+  },
+  {
+    "boothName": "D.atlastudio",
+    "socials": "https://www.instagram.com/d.atlastudio/",
+    "merchandise": "\n\nPOKÉMON, STUDIO GHIBLI, ORIGINAL WORK, DEMON SLAYER, JUJUTSU KAISEN, SPYXFAMILY\n\n"
+  },
+  {
+    "boothName": "Daitoarts x Sirfrogdraws",
+    "socials": "\nhttps://www.instagram.com/daitoarts/ , https://www.instagram.com/sirfrogdraws/\n",
+    "merchandise": "\n\nLEAGUE OF LEGENDS, ORIGINAL WORKS, MARVEL, DC, PERSONA, IDENTITY V, GENSHIN, ATTACK ON TITAN, FULLMETAL ALCHEMIST BROTHERHOOD, HADES, ETC.\n\n"
+  },
+  {
+    "boothName": "Daniao Airfryer Studios",
+    "socials": "\nhttp://daniao.carrd.co/ ,https://www.instagram.com/kopibirdy/ ,https://www.instagram.com/owainsphere/ ,https://www.instagram.com/tealmarch/ ,https://www.instagram.com/kozzykat_/ .\n",
+    "merchandise": "\n\nGOOD OMENS, BALDUR'S GATE 3, FINAL FANTASY 14, TRIGUN, REVERSE1999, ORIGINAL WORKS, HYPNOSIS MICROPHONE, HAIKYUU, MOB PSYCHO 100, GRANBLUE FANTASY, VTUBERS, TWISTED WONDERLAND, ENSEMBLE STARS, YAKUZA, ZELDA, OMNISCIENT READER'S VIEWPOINT, BLUE LOCK, GOLDEN KAMUY, ASHES OF THE KINGDOM (代号鸢), JOJO BIZZARRE ADVENTURE\n\n"
+  },
+  {
+    "boothName": "dinokano",
+    "socials": "https://www.instagram.com/dinokanoo/",
+    "merchandise": "\n\nARKNIGHTS, VTUBERS (HOLOLIVE/NIJISANJI), GENSHIN, ORIGINAL\n\n"
+  },
+  {
+    "boothName": "Dokkyun!",
+    "socials": "\nhttps://www.instagram.com/dish_6941https://www.instagram.com/kags.art https://www.instagram.com/jokuuseii/ https://www.instagram.com/zack.ki7/?hl=en https://www.instagram.com/kiwb.erb/ https://www.instagram.com/m4rshmari\n",
+    "merchandise": "\n\nGENSHIN, VALORANT, CHAINSAW MAN, UMA MUSUME, HONKAI: STAR RAIL, SPLATOON, LEGEND OF ZELDA, VTUBERS, DETECTIVE CONAN, PROJECT SEKAI, ATTACK ON TITAN, ORIGINAL WORKS, DUNGEON MESHI, SPIDERMAN, TONDEMO SKILL DE ISEKAI HOROU MESHI, SOUSOU NO FRIEREN, CARDCAPTOR SAKURA\n\n"
+  },
+  {
+    "boothName": "Dustykuro x ernestong.art",
+    "socials": "\nhttps://www.instagram.com/dustykuro/ , https://www.ernestong.art/ \n",
+    "merchandise": "\n\nGENSHIN, PERSONA, FATE\n\n"
+  },
+  {
+    "boothName": "Dysfunctional Room",
+    "socials": "\nhttps://instagram.com/dysfunctional.room , https://instagram.com/uncertainandaimless (same artist, one is brand while the other is my art account) \n",
+    "merchandise": "\n\nONE PIECE, ORIGINAL WORKS, FIRE FORCE, KIMETSU NO YAIBA, CARDCAPTOR SAKURA, YUYU HAKUSHO, SAIYUKI, SLAM DUNK, HIKARU NO GO, EYESHIELD21\n\n"
+  },
+  {
+    "boothName": "Chaos Gang",
+    "socials": "\nAi_deekae: [https://instagram.com/ai_deekae?igshid=NzZlODBkYWE4Ng== ], Elryaaa [https://instagram.com/elryaaa?igshid=NzZlODBkYWE4Ng%3D%3D&amp;utm_source=qr ]\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, PROJECT SEKAI, KAGEPRO, NU:CARNIVAL, TRIGUN STAMPEDE\n\n"
+  },
+  {
+    "boothName": "Emo Trash &amp; Etc",
+    "socials": "https://instagram.com/thenatlehhh?igshid=MTdldTYwa3V4Z2Yybw==",
+    "merchandise": "\n\nMY CHEMICAL ROMANCE, PARAMORE, FALL OUT BOY, GREEN DAY, MORE 2000'S BANDS, SCOTT PILGRIM VS THE WORLD\n\n"
+  },
+  {
+    "boothName": "Fingers In His...",
+    "socials": "\nhttps://www.instagram.com/butterbells?igsh=NGVhN2U2NjQ0Yg== \n",
+    "merchandise": "\n\nMOB PSYCHO, POKEMON, JUJUTSU KAISEN, SCOTT PILGRIM, SAILOR MOON, GOOD OMENS, CHAINSAW MAN, TAYLOR SWIFT, SPIDERVERSE, ADVENTURE TIME, DC UNIVERSE, WINX CLUB, SCOOBY DOO, TOTALLY SPIES, UNDERTALE, DANGANRONPA, MEMES, HETALIA, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Fish Tank Boys",
+    "socials": "\nhttps://jackdawsnest.carrd.co/, https://campsite.bio/jackojpg, https://www.instagram.com/icarusgrief/\n",
+    "merchandise": "\n\nGENSHIN, JJBA, IDV, HONKAI: STAR RAIL, HADES, GOOD OMENS, SK8 THE INFINITY, BSD, BALDURS GATE 3, LINK CLICK, EVANGELION, COOKIE RUN, MONSTER HIGH, ANIMAL CROSSING, OMORI, POKEMON, MDZS, SPIDERVERSE\n\n"
+  },
+  {
+    "boothName": "Flat Bunny x Ming Maui Art",
+    "socials": "\ninstagram.com/flatbunnyprints , instagram.com/ming.maui.art \n",
+    "merchandise": "\n\nORIGINAL ART, POKEMON, THAT TIME I GOT REINCARNATED AS A SLIME, ONE PIECE, PERSONA, A MAN AND HIS CAT, APOTHECARY DIARIES, BL SERIES, BLUE LOCK, ELECEED, HAIKYU!!, BOCCHI THE ROCK, BUNGOU STRAY DOGS, DEMON SLAYERS, FRIEREN, GAKUEN ALICE, GHIBLI, JUJUTSU KAISEN, LCF, MASHLE, MY NEW BOSS IS GOOFY, NIJISANJI, ORV, ONE PIECE, SPYXFAMILY, VTUBERS, YAMADA KUN TO LV999, &amp; ETC.\n\n"
+  },
+  {
+    "boothName": "Flippin' Pancakes",
+    "socials": "\nhttps://www.instagram.com/hewwo_tehbing/ , https://pancakesprince.tumblr.com/ carrd with links for both: https://flippinpancakes.carrd.co/ \n",
+    "merchandise": "\n\nBALDUR'S GATE 3, FFXIV, DUNGEON MESHI, OUSAMA RANKING\n\n"
+  },
+  {
+    "boothName": "Frogbear",
+    "socials": "\nhttps://riyasharma.carrd.co/ https://froggystitchportfolio.carrd.co/ \n"
+  },
+  {
+    "boothName": "weehuu Mart",
+    "socials": "\nhttps://www.instagram.com/futazuki/ \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, PLAVE, SEVENTEEN, SLAM DUNK, CHAINSAW MAN, DUNGEON MESHI AND NANA\n\n"
+  },
+  {
+    "boothName": "Gattai Makers",
+    "socials": "\nhttps://www.facebook.com/gattaimakers?mibextid=ZbWKwL \n",
+    "merchandise": "\n\nTOKUSATSU GENRE: KAMEN RIDER, SUPER SENTAI, POWER RANGERS\n\n"
+  },
+  {
+    "boothName": "Gerhana Art Studio",
+    "socials": "https://www.instagram.com/gerhana.artstudio/",
+    "merchandise": "\n\nGENSHIN IMPACT, CHRONOIR, FRIEREN, JUJUTSU KAISEN, HAIKYUU, DEMON SLAYER, BLUE LOCK, TRIGUN STAMPEDE, HELL’S PARADISE, CHAINSAW MAN, BUNGO STRAY DOGS, TOKYO REVENGERS, HONKAI STAR RAIL, HUNTER X HUNTER, ATTACK ON TITAN, BNHA, DR STONE, SKIP AND LOAFER, MY DRESS UP DARLING, SPY X FAMILY, KOMI CAN’T COMMUNICATE, BLUE PERIOD, FRUITS BASKET, THE APOTHECARY DIARIES AND MASHLE\n\n"
+  },
+  {
+    "boothName": "Giddy Glee",
+    "socials": "\nhttps://instagram.com/giddyglee?igshid=YTQwZjQ0NmI0OA== \n",
+    "merchandise": "\n\nPOKEMON, CARDCAPTOR SAKURA, ELECEED, DEMON SLAYER, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Gillfriends",
+    "socials": "\ninstagram.com/soursooshee/ , instagram.com/hydratedfeesh/ \n",
+    "merchandise": "\n\nFRIEREN, HONKAI: STAR RAIL, YAKUZA, GENSHIN, CHAINSAWMAN, GOOD OMENS, JUJUTSU KAISEN, PROJECT SEKAI, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Starving Artists",
+    "socials": "\nhttps://www.instagram.com/sleepytaku_ https://www.instagram.com/xtra.funz https://www.instagram.com/yzhakun/ https://www.instagram.com/zomiovo/ \n",
+    "merchandise": "\n\nBOOTH 1MXTX(TGCF,SVSSS,MDZS), 2HA, HONKAI: STAR RAIL, VTUBERS, GENSHIN, OSHINOKO, FAGARIA MEMORIES (MAYBE)BOOTH 2HOLOSTARS, ADO, JUJUTSU KAISEN, DEMON SLAYER, TWISTED WONDERLAND, VTUBERS, LOL (MAYBE), GENSHIN, FAGARIA MEMORIES (MAYBE)\n\n"
+  },
+  {
+    "boothName": "Hannabi Art Store x Abunnypunny Arts",
+    "socials": "\nhttps://instagram.com/hannabiartstore?igshid=YzAwZjE1ZTI0Zg== , https://instagram.com/abunnypunnyarts?igshid=YzAwZjE1ZTI0Zg== \n",
+    "merchandise": "\n\nSTUDIO GHIBLI, JUJUTSU KAISEN, GENSHIN, HONKAI: STAR RAIL, POKEMON, ORIGINAL ART, SPY X FAMILY AND ANIMAL CROSSING\n\n"
+  },
+  {
+    "boothName": "HDB Dwellers",
+    "socials": "\nhttps://www.instagram.com/axioru/ https://www.instagram.com/hontonikireidesu/ \n",
+    "merchandise": "\n\nVALORANT, GENSHIN, HONKAI: STAR RAIL, ANIME (FRIEREN, CHAINSAW MAN, BLUE LOCK, ETC) ARKNIGHTS, FFXIV, NEEDY STREAMER OVERLOAD, TOUHOU PROJECT\n\n"
+  },
+  {
+    "boothName": "Hellojellystardrops",
+    "socials": "\nKitminkam.com , https://www.instagram.com/jellyfishcakes , https://www.instagram.com/hellokitcrafts , https://www.instagram.com/stardropscafe \n",
+    "merchandise": "\n\nBTS, ORIGINAL WORKS/CRAFTS, GENSHIN, MDZS, POKÉMON\n\n"
+  },
+  {
+    "boothName": "hexenmesser x Club Querencia",
+    "socials": "\nhttps://www.instagram.com/hexenmesser/?hl=en , Club Querencia [https://instagram.com/clubquerencia?igshid=NzZlODBkYWE4Ng== ]\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, NEEDY GIRL OVERDOSE, DEATH NOTE, BLUE LOCK, VARIOUS ANIME\n\n"
+  },
+  {
+    "boothName": "Hibiki Art Wear",
+    "socials": "\nhttps://instagram.com/hibikiartwear \n",
+    "merchandise": "\n\nCHAINSAWMAN, VTUBER, BOCHI THE ROCK, FRIEREN, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Himazune",
+    "socials": "\nwww.instagram.com/himazune/ \n",
+    "merchandise": "\n\nVTUBER (NIJISANJI, HOLOSTARS), HONKAI: STAR RAIL, ENSEMBLE STARS, GENSHIN, HEARTSTEEL\n\n"
+  },
+  {
+    "boothName": "Himeko’s Harem",
+    "socials": "\nhttps://Instagram.com/himekoharem \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, BLUE LOCK, TRIGUN, SPY FAMILY, JUJUTSU KAISEN, HAIKYUU\n\n"
+  },
+  {
+    "boothName": "horang_ee08",
+    "socials": "https://www.instagram.com/horang_ee08/",
+    "merchandise": "\n\nJUJUTSU KAISEN, TOKYO REVENGERS, BUNGOU STRAY DOGS, HAIKYUU, DEMON SLAYER, MY HERO ACADEMIA\n\n"
+  },
+  {
+    "boothName": "hoshiikanaru",
+    "socials": "\nhttps://www.instagram.com/shoyurun/ https://www.instagram.com/henxtie/ https://www.instagram.com/rhemechan/ https://www.instagram.com/kan.lamari/?hl=en\n",
+    "merchandise": "\n\nGENSHIN IMPACT, HONKAI STAR RAIL, VTUBERS (VSHOJO), HONKAI IMPACT 3RD, NU: CARNIVAL, GRANBLUE FANTASY, SPYXFAMILY\n\n"
+  },
+  {
+    "boothName": "hyuki x shion x kozaki",
+    "socials": "\n https://www.instagram.com/hyuki104/, https://www.instagram.com/shionyukure_/, https://www.instagram.com/kozakivulpine/,\n",
+    "merchandise": "\n\nNIJISANJI, HOYOVERSE, VTUBERS, EVANGELION, BOCCHI THE ROCK, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "IAIHOSHI",
+    "socials": "\nhttp://instagram.com/iaihoshi/ \n",
+    "merchandise": "\n\nMOSTLY ORIGINAL WORKS, GHIBLI, POKEMON, AND PERHAPS FFXIV OR GAME RELATED FANDOM\n\n"
+  },
+  {
+    "boothName": "Idyllic hive",
+    "socials": "\nhttps://www.instagram.com/idyllic_hive/, https://www.instagram.com/kyoonight/ , https://www.instagram.com/beatsthatslap/\n",
+    "merchandise": "\n\nGENSHIN, PROJECT SEKAI, HAIKYUU!, MAIMAI AND GL MANHWAS\n\n"
+  },
+  {
+    "boothName": "Institute of Toy Research",
+    "socials": "\nhttps://www.instagram.com/jinroii/ , https://www.instagram.com/nawubynaro/ , https://www.instagram.com/tiaxreii/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, OBEY ME!, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Irene Paramitha",
+    "socials": "\ninstagram.com/ireneparamithaa or ireneparamithaa.carrd.co/ \n",
+    "merchandise": "\n\n- GENSHIN IMPACT - HONKAI STAR RAIL - K9KURO (VTUBER) - SHXTOU (VTUBER) - ADVENTURE TIME - STUDIO GHIBLI - HAIKYUU!! - SOUSOU NO FRIEREN - VIOLET EVERGARDEN - OMNISCIENT READERS VIEWPOINT - SUZUME NO TOJIMARI - SPYXFAMILY - JUJUTSU KAISEN - SHOUJO ANIMANGA - POKEMON\n\n"
+  },
+  {
+    "boothName": "Itto Publishing House",
+    "socials": "\nhttps://www.instagram.com/minsqart/, https://www.instagram.com/wen.shuu/, https://www.instagram.com/chu_chuuu_train/\n",
+    "merchandise": "\n\nGENSHIN, ENSTARS, NIJISANJI, BALDUR'S GATE 3, JUJUTSU KAISEN (SATOSUGU), HONKAI: STAR RAIL, MXTX, LOUT OF THE COUNT’S FAMILY (LCF)\n\n"
+  },
+  {
+    "boothName": "IXSERA",
+    "socials": "\nhttps://www.instagram.com/ixsera/ \n",
+    "merchandise": "\n\nSUMIKKO GURASHI, ONE PIECE, HOUSEKI NO KUNI, MADE IN ABYSS, THE APOTHECARY DIARIES, FRIEREN, MOBILE LEGENDS, RANKING OF KINGS, CAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILL, OSHI NO KO, ORIGINAL\n\n"
+  },
+  {
+    "boothName": "Jealillus",
+    "socials": "https://www.instagram.com/jealillus/",
+    "merchandise": "\n\nJUJUTSU KAISEN, CHAINSAW MAN, HSR, PLAVE, BNHA, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "jugofuwu",
+    "socials": "\nhttps://www.instagram.com/jugofuwu/ jugofuwu.bigcartel.com \n",
+    "merchandise": "\n\nPROJECT SEKAI, RESIDENT EVIL, PERSONA 3, SPIDER-MAN, NANA AND THE GUY SHE WAS INTERESTED IN WASN'T A GUY AT ALL\n\n"
+  },
+  {
+    "boothName": "JuiceInks x Eliot Lime",
+    "socials": "\nhttps://www.instagram.com/juiceinks/ , https://www.instagram.com/eliotlime/ \n",
+    "merchandise": "\n\nORIGINAL ART, POKEMON, DISCO ELYSIUM, DUNGEON MESHI, MONSTER HUNTER, ENSTARS, DARK GATHERING, ADVENTURE TIME, PEPE, CHAINSAW MAN, LEGEND OF ZELDA, STARDEW VALLEY\n\n"
+  },
+  {
+    "boothName": "Jumbled with Teru",
+    "socials": "\nInstagram.com/teruteruwithcrafts , instagram.com/jumbledyarns \n",
+    "merchandise": "\n\nONE PIECE, DEMON SLAYER, CARD CAPTOR SAKURA, GHIBLI STUDIO\n\n"
+  },
+  {
+    "boothName": "Kagi",
+    "socials": "\nhttps://twitter.com/kagi_illust \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, HONKAI IMPACT 3RD, ARKNIGHTS\n\n"
+  },
+  {
+    "boothName": "kagunyaa x potatetoe x temo.studio",
+    "socials": "\nhttps://twitter.com/potatetoee/ , https://www.instagram.com/kagunyaa/ , https://www.instagram.com/temo.studio/ \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN,, FATE GRAND ORDER, FRIEREN, GHIBLI, ORIGINAL WORKS, LOVE &amp; DEEPSPACE, JUJUTSU KAISEN, MAGIC AND MUSCLES, AND VTUBERS (HOLOPRO/INDIE/VSHOUJO)\n\n"
+  },
+  {
+    "boothName": "Katsudonno X Zetaragi",
+    "socials": "\nhttps://www.instagram.com/katsudonno/ , https://www.instagram.com/zetaragi/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, HOLOSTARS, HOLOLIVE, NIJISANJI\n\n"
+  },
+  {
+    "boothName": "Kevin Panda",
+    "socials": "\nhttps://www.instagram.com/kevinpanda1234/ \n",
+    "merchandise": "\n\nPOKEMON, VALORANT, HONKAI STARRAILS, GENSHIN . POWER RANGER, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Keyade &amp; Hashagi",
+    "socials": "\nhttps://www.instagram.com/keyadeart/, https://www.instagram.com/hashagi/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, LEGEND OF ZELDA, FIRE EMBLEM, KIRBY, TRIGUN STAMPEDE, OCTOPATH TRAVELLER, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "KieirinArts",
+    "socials": "https://www.etsy.com/sg-en/shop/KieirinArts",
+    "merchandise": "\n\nGENSHIN, HONKAI STARRAIL, POKEMON\n\n"
+  },
+  {
+    "boothName": "KikuRoman (Casty)",
+    "socials": "https://twitter.com/kasuti_illust",
+    "merchandise": "\n\nHOLOLIVE, KONOSUBA, BOCCHI THE ROCK, DUNGEON MESHI, OSHI NO KO, GENSHIN, HONKAI: STAR RAIL, SPY X FAMILY, BLUE ARCHIVE, AMONG US, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Koheemura",
+    "socials": "\nhttps://www.instagram.com/b00_itskino/ , https://www.instagram.com/koheemura/ \n",
+    "merchandise": "\n\nVALORANT, IDENTITY V, AVATAR SERIES (ATLA &amp; KORRA) &amp; ORIGINAL WORKS, ADVENTURE TIME, JUJUTSU LAUSEN, MDZS, TGCF, LDS, PLAVE , GIVEN, 90S-00S CARTOON LIKE TEEN TITANS, WINX CLUB, TOTALLY SPIES, KIM POSSIBLE AND DANNY PHANTOM\n\n"
+  },
+  {
+    "boothName": "Kise",
+    "socials": "\nhttps://www.instagram.com/kise_t9?igsh=Mmk0Y2ZxdDZydGV0 \n",
+    "merchandise": "\n\nBLUE ARCHIVE, FRIEREN, BOCCHI THE ROCK, OSHINOKO, 86, CALL OF THE NIGHT, TORADORA,THE DANGERS IN MY HEART, THE QUINTESSENTIAL QUINTUPLETS, UMA MUSUME\n\n"
+  },
+  {
+    "boothName": "Knoss_Art",
+    "socials": "https://sketchfab.com/EuKern"
+  },
+  {
+    "boothTable": "A14",
+    "boothName": "Kohitorii x Unisagii",
+    "socials": "\nhttps://www.instagram.com/kohitorii https://www.instagram.com/unisagii/ \n",
+    "merchandise": "\n\nTOKYO REVENGERS, BUNGOU STRAY DOGS, HONKAI: STAR RAIL, GENSHIN, VOCALOID, OBEY ME, PRSK, MOB PSYCHO 100, JUJUTSU KAISEN, MASHLE: MUSCLE &amp; MAGIC, HAZBIN HOTEL, OMNISCIENT READER'S VIEWPOINT\n\n"
+  },
+  {
+    "boothName": "kri5pp x ichiyi25",
+    "socials": "https://kri5pp.carrd.co/",
+    "merchandise": "\n\nENSEMBLE STARS, HOLOTEMPUS, NIJISANJI EN, PROJECT SEKAI, LIMBUS COMPANY, FRAGARIA MEMORIES, THE AMAZING DIGITAL CIRCUS, OURAN HIGHSCHOOL HOST CLUB, GENSHIN\n\n"
+  },
+  {
+    "boothName": "Krin",
+    "socials": "\nhttps://www.instagram.com/krinnnin/ \n",
+    "merchandise": "\n\nARKNIGHTS, GENSHIN, HONKAI: STAR RAIL, SUISEI\n\n"
+  },
+  {
+    "boothTable": "A16",
+    "boothName": "kurage.bakery",
+    "socials": "\nhttps://www.instagram.com/baobei03/ https://www.instagram.com/melmare.art/ https://www.instagram.com/zubingzu/\n",
+    "merchandise": "\n\nGENSHIN, SPIDERVERSE, THE LEGEND OF ZELDA, HADES, TWISTED WONDERLAND\n\n"
+  },
+  {
+    "boothName": "kuromamecha",
+    "socials": "\nhttps://www.instagram.com/toku.ig/ \n",
+    "merchandise": "\n\nENSEMBLE STARS, HYPNOSIS MICROPHONE, NIJISANJI EN, OBEY ME!, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Labutori",
+    "socials": "\nInstagram.com/Labutori , Labutori.com \n",
+    "merchandise": "\n\nPOKEMON, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Lawliet Art ASSet",
+    "socials": "\nhttps://www.instagram.com/lawliet_liaw/ \n",
+    "merchandise": "\n\nNIKKE, GENSHIN, ORIGINAL WORKS, HOLOLIVE, HONKAI: STAR RAIL, ARKNIGHT, GUNDAM\n\n"
+  },
+  {
+    "boothName": "Belsprout and Layer6",
+    "socials": "\nhttps://instagram.com/_Layer6 https://instagram.com/_belsprout https://instagram.com/wmin_art \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, JUJUTSU KAISEN, DEMON SLAYER, HADES, ONE PIECE, DIABLO\n\n"
+  },
+  {
+    "boothName": "Lighht06",
+    "socials": "\nhttps://www.instagram.com/lighht06/ \n",
+    "merchandise": "\n\nOMNISCIENT READER’S VIEWPOINT, HONKAI IMPACT 3RD, HONKAI: STAR RAIL, HEARTSTEEL (RIOT MUSIC VERSE), OTHER MANHWAS AND MANHUAS\n\n"
+  },
+  {
+    "boothName": "littlejackal x bingxuejun",
+    "socials": "\nlittlejackalden etsy: https://www.etsy.com/shop/littlejackalden bingxuejun portoflio shortcuts: https://bingxuejun-portfolio.carrd.co/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKS, PATH TO NOWHERE\n\n"
+  },
+  {
+    "boothName": "Loose Goose &amp; Co.",
+    "socials": "\nhttps://www.instagram.com/zeracaeli/ https://www.instagram.com/pliyuna/ https://www.instagram.com/devo.arts/ https://www.instagram.com/jesh.arte/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI STAR RAIL, LOVE &amp; DEEPSPACE, STUDIO GHIBLI, SPIDERVERSE, FRIEREN, APOTHECARY DIARIES, HAIKYUU, NARUTO, JJK, ADVENTURE TIME, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "B9",
+    "boothName": "lost.misery x golden.doodless",
+    "socials": "\nhttps://linktr.ee/lost.misery, https://goldendoodless.carrd.co/\n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, COOKIE RUN KINGDOM, GOOD OMENS, LEAGUE OF LEGENDS, VALORANT, SPIDERVERSE, MIRACULOUS LADYBUG, HADES, SOME ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "LSI Art",
+    "socials": "\nhttps://instagram.com/qtpals , https://instagram.com/intervee24_ , https://www.instagram.com/swaggieart/ (insta) https://www.etsy.com/shop/swaggieartSG (shop)\n",
+    "merchandise": "\n\nORIGINAL WORKS, POKEMON, ANIMAL CROSSING, HOLOLIVE, FFXIV, PERSONA, TRIGUN, ADVENTURE TIME, KIRBY, JUJUTSU, INUYASHA, SHINGEKI\n\n"
+  },
+  {
+    "boothName": "LukrevaDraws",
+    "socials": "\nhttps://twitter.com/_LukrevaDraws . https://www.instagram.com/lukreva/ \n",
+    "merchandise": "\n\nFINAL FANTASY 7, FINAL FANTASY 14, FINAL FANTASY 16, XENOBLADE, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothName": "tohkages x lunamuba21",
+    "socials": "\nhttps://lunamuba21s.carrd.co/, https://tohkages.carrd.co/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, REVERSE 1999, ENSTARS, CHAINSAW MAN, SOUTH PARK, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "A1",
+    "boothName": "Machi Mile",
+    "socials": "\nhttps://www.pixiv.net/en/users/18314902 \n",
+    "merchandise": "\n\nNIJISANJI EN, ORIGINAL WORKS, GENSHIN, HONKAI: STAR RAIL, EVANGELION\n\n"
+  },
+  {
+    "boothName": "malfuncio",
+    "socials": "\nhttps://twitter.com/malfuncio or https://www.instagram.com/malfuncio/ \n"
+  },
+  {
+    "boothName": "horse sashimi",
+    "socials": "\nMash: https://www.instagram.com/masshushi/ Hoyce: https://www.instagram.com/hoyce.sheep/ \n",
+    "merchandise": "\n\nPLANNING TO MAKE: SOUSOU NO FRIEREN, KUSURIYA NO HITORIGOTO, WORLD TRIGGER (MAYBE)HONKAI: STAR RAIL, GENSHIN, PIKMIN BLOOM, HOLOTEMPUS, AITSF, NIJISANJI, VOCALOID, BOCCHI THE ROCK!, SKY COTL, TO YOUR ETERNITY, HOLOLIVE, ORIGINAL WORKS (OC)\n\n"
+  },
+  {
+    "boothName": "mjesart x mtytk.studio",
+    "socials": "\nhttps://mjesart.carrd.co/ , https://www.instagram.com/mtytk.studio/ \n",
+    "merchandise": "\n\nGHIBLI, POKEMON, KIRBY, HONKAI: STAR RAIL, SAILORMOON, DEMONS SLAYER, CHAINSAW MAN, ANIMAL CROSSING, ONE PIECE, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Meeblesmeeb",
+    "socials": "https://www.instagram.com/meeblesmeeb/",
+    "merchandise": "\n\nPROJECT SEKAI, AMPHIBIA, THE OWL HOUSE, GENSHIN, PUELLA MAGI MADOKA MAGICA, ARKNIGHTS, VOCALOID, BEE AND PUPPYCAT, JUJUTSU KAISEN, CHAINSAW MAN, DELTARUNE\n\n"
+  },
+  {
+    "boothName": "Meijio3 x Tiaa.rt",
+    "socials": "\nhttps://www.instagram.com/meijio3/ https://www.instagram.com/tiaa.rt/\n",
+    "merchandise": "\n\nORIGINAL CHARACTER, GENSHIN, BOCCHI THE ROCK, MADOKA MAGICA, DANGANRONPA, DOKIDOKI LITERATURE CLUB, MIKU\n\n"
+  },
+  {
+    "boothName": "Melo-Kii",
+    "socials": "\nhttps://qkinori.carrd.co/ , https://www.instagram.com/melodenesa/\n",
+    "merchandise": "\n\nQKI.NORI :- HAIKAVEH- GENSHIN IMPACT- HONKAI : STAR RAIL- HOLOSTARS JP &amp; EN- HAIKYUU- COOKIE RUN- PROJECT SEKAI- (OTHER ANIMES ADDED LTR)MELODENESA :- MADE IN ABYSS- SHADOWS HOUSE- OMORI- BOCCHI THE ROCK- SPY X FAMILY- UNDERTALE- ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Miilkk0",
+    "socials": "\nhttps://miilkk0.myportfolio.com \n",
+    "merchandise": "\n\nJUJUTSU KAISEN, ONE PIECE, HUNTER X HUNTER, GENSHIN, VALORANT, NEW JEANS, CHAINSAW MAN, LINK CLICK\n\n"
+  },
+  {
+    "boothName": "Mimimura",
+    "socials": "\nhttps://artofhikari.tumblr.com/ , https://evonsartcave.tumblr.com/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKS, DUNGEON MESHI, SOUSOU NO FRIEREN, GHIBLI, URUSEI YATSURA, AND MORE\n\n"
+  },
+  {
+    "boothName": "Mirro Ding",
+    "socials": "https://www.instagram.com/mirroding/ ",
+    "merchandise": "\n\nORIGINAL WORKS, GENSHIN, HONKAI: STAR RAIL,\n\n"
+  },
+  {
+    "boothName": "Mishellypins x Hisakihana",
+    "socials": "\n\"https://mishellypins.storenvy.com/ , https://instagram.com/mishellypins/ \"\"https://www.etsy.com/sg-en/shop/Hisakihana , https://instagram.com/hisakihana/ \"\n",
+    "merchandise": "\n\nFOR MISHELLYPINS: GHIBLI, ONE PIECE, WELCOME TO DEMON SCHOOL! IRUMA-KUN, POKEMON, ORIGINAL WORKS, ETCFOR HISAKIHANA: HONKAI: STAR RAIL, LIMBUS COMPANY, GENSHIN, FATE SERIES, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Mochiakahwoo",
+    "socials": "\nhttps://instagram.com/mochiakahwoo \n",
+    "merchandise": "\n\nORIGINAL WORKS, BOKU NO HERO, JOJO BIZARRE ADVENTURE, NINTENDO, JUNJI ITO\n\n"
+  },
+  {
+    "boothTable": "A19",
+    "boothName": "mochibuddies",
+    "socials": "\nhttps://www.mochibuddies.com/introduction/ \n",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Mochigardens",
+    "socials": "\nhttps://www.instagram.com/mochigardens/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, KIRBY, POKEMON\n\n"
+  },
+  {
+    "boothName": "monkeysketches",
+    "socials": "\nhttps://www.kevindipasupil.com/illustrations \n",
+    "merchandise": "\n\nPOKEMON, DELICIOUS IN DUNGEON, ZOOTOPIA, MY HERO ACADEMIA, STREET FIGHTER, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Moonlit Cafe",
+    "socials": "\nhttps://moonxiney.carrd.co/# https://www.instagram.com/xineytxr/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, PLAVE, JUJUTSU KAISEN, IDENTITY V\n\n"
+  },
+  {
+    "boothName": "Moshicat",
+    "socials": "https://www.instagram.com/moshicatinc/?hl=en",
+    "merchandise": "\n\nORIGINAL CAT ARTWORK\n\n"
+  },
+  {
+    "boothName": "Yaouri Factory",
+    "socials": "\nhttps://instagram.com/akalegos_?igshid=MzRlODBiNWFlZA== , https://instagram.com/tripleberrymix_?igshid=MzRlODBiNWFlZA== , https://instagram.com/rtk212_?igshid=MzRlODBiNWFlZA== \n",
+    "merchandise": "\n\nMOB PSYCHO 100, MOOMIN, NYAN NEKO SUGAR GIRLS, ALL SAINTS STREET, DUNGEON MESHI, MIRACULOUS LADYBUG, THE AMAZING DIGITAL CIRCUS, GOOD OMENS, PERCY JACKSON, NEEDY STREAMER OVERLOAD, OMORI, SPY X FAMILY, PERSONA SERIES, ENSEMBLE STARS, PROJECT SEKAI, HYPNOSIS MICROPHONE, RISE OF THE TEENAGE MUTANT NINJA TURTLES, VOCALOID, GENSHIN IMPACT, NIJISANJI EN, ATTACK ON TITAN, SPIDERVERSE, GACHA GAMES, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "mu.andcoco",
+    "socials": "\nhttps://www.instagram.com/mu.andcoco/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, STUDIO GHIBLI FANART (TOTORO, SPIRITED AWAY, KIKI DELIVERY SERVICE, THE BOY AND THE HERON, HOWL'S MOVING CASTLE, PRINCESS MONONOKE, PONYO)\n\n"
+  },
+  {
+    "boothName": "N2Y88",
+    "socials": "\nhttps://www.instagram.com/n2y88/ \n",
+    "merchandise": "\n\nPOKEMON, LEGEND OF ZELDA, ANIMAL CROSSING, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "nandecolle",
+    "socials": "\nhttps://www.instagram.com/nandecolle \n",
+    "merchandise": "\n\nPOKEMON, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Nattellaz x Solarisens",
+    "socials": "https://www.instagram.com/solarisens/",
+    "merchandise": "\n\nGENSHIN, CHAINSAW MAN, APOTHECARY DIARIES, BLUELOCK, DEMON SLAYER, AOT, PROJECT SEKAI\n\n"
+  },
+  {
+    "boothName": "Nekonase &amp; Friends",
+    "socials": "\nhttps://www.instagram.com/nekonase \n",
+    "merchandise": "\n\nHOLOLIVE, HONKAI: STAR RAIL, EMINENCE OF SHADOW, GUSHING OVER MAGICAL GIRL, FRIEREN, AND MANY MORE\n\n"
+  },
+  {
+    "boothName": "Neru and pants",
+    "socials": "\nhttps://www.instagram.com/n3ru.0_ https://www.instagram.com/pantsisdrawing \n",
+    "merchandise": "\n\nVTUBER, VOCALOIDS, GENSHIN, ANIME\n\n"
+  },
+  {
+    "boothName": "Neuthlea Statonary",
+    "socials": "\nhttps://www.instagram.com/eutheciel/ , https://www.instagram.com/fartist_lea/ , https://www.instagram.com/tatonary/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, V-TUBER, PROJECT SEKAI, TEARS OF THEMIS\n\n"
+  },
+  {
+    "boothName": "NianGao X Tsukiya",
+    "socials": "https://www.instagram.com/slick_bee_art/",
+    "merchandise": "\n\nNIKKE, GENSHIN, FGO, HONKAI: STAR RAIL, FRIEREN, CALL OF THE NIGHT, LYCORIS RECOIL, WITCH FROM MERCURY,EVANGELION,POKEMON,86\n\n"
+  },
+  {
+    "boothName": "Niwatorizawa",
+    "socials": "\nhttps://twitter.com/ivertryst https://ateliernom.carrd.co/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKS, FINAL FANTASY XIV, THAT TIME I GOT REINCARNATED AS A SLIME, DEATH IS THE ONLY ENDING FOR THE VILLAINESS, IDENTITY V\n\n"
+  },
+  {
+    "boothName": "Noeybodys x Sconesumer",
+    "socials": "\nhttps://www.instagram.com/noeybodys https://www.instagram.com/sconesumer/?hl=en \n",
+    "merchandise": "\n\nMOB PSYCHO 100, JOJO'S BIZARRE ADVENTURE, GOOD OMENS, DUNGEON MESHI, ONE PIECE, OUR FLAG MEANS DEATH, GENSHIN\n\n"
+  },
+  {
+    "boothTable": "A17,18",
+    "boothName": "o.mj studio",
+    "socials": "\nwww.instagram.com/o.mj_studio \n",
+    "merchandise": "\n\nPOKEMON, GENSHIN, HONKAI: STAR RAIL, DIGIMON, DEMON SLAYER, ONE PIECE, SPY X FAMILY, GHIBLI &amp; ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "OvO Slaying",
+    "socials": "\nhttps://www.instagram.com/lime.artz?igsh=dXdycmZrZnRvNXU1 | https://www.instagram.com/marqeesarisa?igsh=cWU5ajVid2l6eWFh | https://www.instagram.com/noelhasla?igsh=cWlxbm4zd3R3dWFs | https://www.instagram.com/rumiaere?igsh=MXVqZ29ra3BxZTczaA== | https://www.instagram.com/sherouuuu?igsh=b2d2enB2YWtrN3Fy | https://www.instagram.com/yuhwiart?igsh=YXE0MmFlMm1vNXJ6 \n",
+    "merchandise": "\n\nGENSHIN, TWISTED WONDERLAND, POKEMON, HONKAI: STAR RAIL, LINK CLICK, ZENLESS ZONE ZERO, OMORI, CHAINSHAW MAN, FF16, BALDUR'S GATE, BOCCHI THE ROCK, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Pearl &amp; Cotton",
+    "socials": "\nhttps://www.instagram.com/sssei_/ https://twitter.com/kikiaruS https://twitter.com/guan63947624 \n",
+    "merchandise": "\n\nENSEMBLE STARS!!, NIJISANJI,ARKNIGHTS, PRSK, EVA, GENSHIN,\n\n"
+  },
+  {
+    "boothName": "Petit Taiyaki",
+    "socials": "\n\"https://petittaiyaki.carrd.co/ \", \"https://www.instagram.com/vees_cs/ \", \"https://www.instagram.com/v_dnelle/ \"\n",
+    "merchandise": "\n\nVTUBERS, ORIGINALS, PROJECT SEKAI, STAR OCEAN, FINAL FANTASY, KAGEROU PROJECT\n\n"
+  },
+  {
+    "boothName": "Phrog Pond",
+    "socials": "\nhttps://www.instagram.com/cardboardvoice/ https://www.instagram.com/riin.desu/ https://www.instagram.com/phrogpond_sg/ https://gemamorenoart.wixsite.com/gemamorenoart https://leeleenbm.wixsite.com/waka \n",
+    "merchandise": "\n\nORIGINAL WORKS, DUNGEON MESHI, HONKAI: STAR RAIL, WILL INCLUDE MORE BEFORE JUNE\n\n"
+  },
+  {
+    "boothName": "pistashxo x jetautoart.jr x ikanyaide",
+    "socials": "\nhttps://www.instagram.com/pistashxo/?hl=en https://www.instagram.com/jetautoart.jr/ https://www.instagram.com/ikanyaide/\n",
+    "merchandise": "\n\nMOB PSYCHO 100, JUJUTSU KAISEN, VTUBERS (HOLOLIVE EN + SUISEI), HONKAI: STAR RAIL, SPIDER-VERSE, AKIRA, CARS, OKAMI, VOCALOID, HADES, PUSS IN BOOTS, HAIKYUU, PEANUTS (SNOOPY)\n\n"
+  },
+  {
+    "boothName": "Pokomaru Buns",
+    "socials": "\nhttps://www.instagram.com/cyanbuns?igshid=NzZlODBkYWE4Ng== , https://vgen.co/pokonsu , https://www.instagram.com/pokonsu?igshid=NzZlODBkYWE4Ng== , https://www.instagram.com/zechie.maru?igshid=NzZlODBkYWE4Ng== \n",
+    "merchandise": "\n\nGENSHIN, TGCF, OMORI, LINK CLICK, MDZS, HONKAI: STAR RAIL, VOCALOID, BSD, JUJUTSU KAISEN, POKEMON, CSM, 2HA, DANGANRONPA, KIMETSU NO YAIBA, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Polaris",
+    "socials": "https://www.instagram.com/polar.is7/?hl=en",
+    "merchandise": "\n\nJOJO'S BIZZARE ADVENTURE, GENSHIN, ARKNIGHTS, ORIGINAL (CATS)\n\n"
+  },
+  {
+    "boothName": "PPPombers",
+    "socials": "https://www.instagram.com/pppombers/ ",
+    "merchandise": "\n\nDRAGON BALL, GENSHIN, PUELLA MAGI MADOKA MAGICA, TEAM FORTRESS 2, LUPIN III, KAGEROU PROJECT, HOLOLIVE, ORIGINAL WORK, WALLACE AND GROMIT, JJK\n\n"
+  },
+  {
+    "boothName": "Pyonyon",
+    "socials": "\nhttps://instagram.com/pyonyon_%0A , https://instagram.com/mambo_san_daze \n",
+    "merchandise": "\n\nORIGINAL WORKS, POKEMON, MIKU HATSUNE, GENSHIN, HOLOLIVE\n\n"
+  },
+  {
+    "boothName": "QRST",
+    "socials": "\nhttps://www.instagram.com/mangoqath/ https://www.instagram.com/qrst.studio/ \n",
+    "merchandise": "\n\nORIGINAL ARTWORKS, CRYPTOZOOLOGY, DUNGEONS AND DRAGONS, KATAMARI, PARAPPA, POKEMON, FRIEREN, HAIKYUU, BEE AND PUPPYCAT, BLUEY, ANIMAL CROSSING, DUNGEON MESHI\n\n"
+  },
+  {
+    "boothName": "Quacke",
+    "socials": "\nhttps://www.pixiv.net/en/users/27352072 \n",
+    "merchandise": "\n\nVTUBERS, GENSHIN, HONKAI: STAR RAIL, REVERSE 1999, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Raccoon Factory",
+    "socials": "\nhttps://twitter.com/shiftillust , https://www.instagram.com/tanukiins/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, HOLOLIVE\n\n"
+  },
+  {
+    "boothName": "RiceFarm",
+    "socials": "\nhttps://www.maelstromcreatives.com/ \n"
+  },
+  {
+    "boothName": "RIKAEDE x purplle",
+    "socials": "\nhttps://rikaede.artstation.com/ https://purplleyx.artstation.com/ \n",
+    "merchandise": "\n\nRIKAEDE ; VALORANT, HIGURASHI, LOVE&amp;DEEPSPACE, KAGEROU PROJECT, VOCALOID, PROMAREPURPLLE ; MAIN — VOCALOID, PROJECT SEKAI, OSHI NO KOMINOR — BLUE LOCK, SPY X FAMILY, SK8 THE INFINITY, BANG DREAM, GENSHIN, HONKAI: STAR RAIL, MY LITTLE PONY: FRIENDSHIP IS MAGIC, MY HERO ACADEMIA, KAKEGURUI, DOKI DOKI LITERATURE CLUB, YOUR TURN TO DIE, RE: ZERO\n\n"
+  },
+  {
+    "boothName": "RKGKFactory",
+    "socials": "\nhttps://twitter.com/rkgkfactory / https://twitter.com/drweamdev / https://twitter.com/kazukikaidonVT \n",
+    "merchandise": "HOLOLIVE"
+  },
+  {
+    "boothName": "roseberry x smmindraws",
+    "socials": "\nhttps://www.instagram.com/roseberry_0q0/, https://www.instagram.com/smmindraws/ \n",
+    "merchandise": "\n\nORIGINAL WORKSSANRIOGENSHINHONKAI: STAR RAILNIJISANJI POKEMON\n\n"
+  },
+  {
+    "boothName": "samarasketch",
+    "socials": "https://www.instagram.com/samarasketch/",
+    "merchandise": "\n\nDC COMICS, DEMON SLAYER, SPY X FAMILY, LEAGUE OF LEGENDS, KPOP (NEWJEANS, BTS, G-IDLE), POKEMON, MARVEL\n\n"
+  },
+  {
+    "boothName": "Sameazarashi",
+    "socials": "\nhttps://sameazarashi.carrd.com/, https://www.instagram.com/laksayo/ , https://www.instagram.com/wheeskars/ \n",
+    "merchandise": "\n\nNIJISANJI, NIKKE, A3!, GENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Sampo's Band of Con-Artists",
+    "socials": "\nhttps://www.instagram.com/lilydally/ https://www.instagram.com/im_tinybell/?hl=en https://www.instagram.com/alpacitron/?hl=en https://www.instagram.com/luckyeevee153/ \n",
+    "merchandise": "\n\nTEARS OF THEMIS, OMNISCIENT READER'S VIEWPOINT, CHAINSAW MAN, HONKAI: STAR RAIL, ENSEMBLE STARS, GENSHIN, LOVE AND DEEPSPACE, PROJECT SEKAI COLOURFUL STAGE, A3!, PLAVE, HYPNOSIS MIC, KIMETSU NO YAIBA, NU:CARNIVAL, NIJISANJI, UTA NO PRINCE SAMA, FIRE EMBLEM, S CLASSES THAT I RAISED, ALIEN STAGE, VOCALOID, PARADOX LIVE\n\n"
+  },
+  {
+    "boothName": "Season SideUp",
+    "socials": "https://www.instagram.com/seasonsideup/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, HONKAI IMPACT, HATSUNE MIKU, PROJECT SEKAI, TOKYO MEW MEW, SHUGO CHARA, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Seraphon Studios",
+    "socials": "\nhttps://www.instagram.com/seraphonstudios?igsh=MWs2ZmYwZnMxZXhqOA== \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, TWISTED WONDERLAND, JUJUTSU KAISEN, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Serein Studio",
+    "socials": "https://www.facebook.com/sereinstudio/"
+  },
+  {
+    "boothName": "SeVerth",
+    "socials": "\nhttps://www.instagram.com/monoinkl/ https://twitter.com/CyanixVal https://www.instagram.com/sk8rduck/ \n",
+    "merchandise": "\n\nHONKAI STARRAILGENSHINJUJUTSU KAISENPROJECT SEKAI: COLOURFUL STAGE!IDENTITY VTRIGUNFRIERENVTUBERSOMNISCIENT READERS VIEWPOINTGOKURAKUGAI\n\n"
+  },
+  {
+    "boothTable": "B5,B6",
+    "boothName": "SG Vtubers",
+    "socials": "\nhttps://www.pixiv.net/en/users/16485642,https://twitter.com/desuurea?s=21&amp;t=-hSBQomEHaKy_8vXWfbLXQ ,https://twitter.com/shira_ou?s=21&amp;t=-hSBQomEHaKy_8vXWfbLXQ ,https://twitter.com/heyocherysia?s=21&amp;t=-hSBQomEHaKy_8vXWfbLXQ ,https://twitter.com/itslottichu?s=21&amp;t=-hSBQomEHaKy_8vXWfbLXQ\n",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "sherrs x EN.co",
+    "socials": "\nhttps://www.instagram.com/sherrscrochet/ , https://www.instagram.com/eirissenoir.co/ \n",
+    "merchandise": "\n\nSHERRS - GENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKSEN.CO - ORIGINAL WORKS, TAMAGOTCHI, TENSEI SHITARA SURAIMU DATTA KEN, TONDEMO SUKIRU DE ISEKAI HORO MESHI\n\n"
+  },
+  {
+    "boothTable": "A30",
+    "boothName": "Jabbawokku",
+    "socials": "\nhttps://instagram.com/jabbawokku?igshid=OGQ5ZDc2ODk2ZA%3D%3D&amp;utm_source=qr \n",
+    "merchandise": "\n\nONE PIECE, DIGIMON, POKEMON\n\n"
+  },
+  {
+    "boothName": "Shirasame",
+    "socials": "\nhttps://www.instagram.com/hakuueffect/ \n",
+    "merchandise": "\n\nGENSHIN, LOVE AND PRODUCER, ONMYOUJI, D.GRAY-MAN\n\n"
+  },
+  {
+    "boothTable": "A24",
+    "boothName": "ShiroNiji",
+    "socials": "\nhttps://shironiji-arts.tumblr.com/ \n",
+    "merchandise": "\n\nGUILTY GEAR STRIVE, GRANBLUE FANTASY, HONKAI: STAR RAIL, GENSHIN, ARKNIGHTS, PERSONA\n\n"
+  },
+  {
+    "boothName": "Rainer0w0",
+    "socials": "\nhttps://www.instagram.com/rainer0w0?igsh=OGQ5ZDc2ODk2ZA== \n"
+  },
+  {
+    "boothTable": "A15",
+    "boothName": "Shoggya",
+    "socials": "\nhttps://instagram.com/shouscreams , https://instagram.com/tamaeggi , https://instagram.com/nyanuki \n",
+    "merchandise": "\n\nVTUBERS (HOLOTEMPUS, HOLOLIVE, NIJISANJIEN), GENSHIN, ACE ATTORNEY, ONE PIECE, IDENTITY V, VOCALOID, BLACK BUTLER, MISC. MANHWA, NORAGAMI, OVERWATCH\n\n"
+  },
+  {
+    "boothName": "shooplebs",
+    "socials": "\nhttps://www.instagram.com/shooplebs/ \n",
+    "merchandise": "\n\nBUNGOU STRAY DOGS GENSHIN JUJUTSU KAISEN VOCALOIDS POKEMON BOCCHI THE ROCK VTUBERS (NIJISANJI EN, HOLOLIVE EN, K9KURO)\n\n"
+  },
+  {
+    "boothName": "Shrimp",
+    "socials": "\nhyssop: https://www.instagram.com/hyssopcantdraw/ ,aei: https://www.instagram.com/aeiltier/ ,blue: https://www.instagram.com/bluelli_s/\n",
+    "merchandise": "\n\nGENSHIN, VTUBERS (E.G. NIJISANJI), HONKAI: STAR RAIL, VOCALOID, VARIOUS ANIMES (E.G. BSD)\n\n"
+  },
+  {
+    "boothName": "Shuith",
+    "socials": "https://www.instagram.com/shui_th/",
+    "merchandise": "\n\nPROJECT SEKAI COLORFUL STAGE VOCALOID GENSHIN IMPACT HONKAI: STAR RAIL POKEMON SPECIAL POKEMON RANGER\n\n"
+  },
+  {
+    "boothName": "Sijae Studio",
+    "socials": "\nhttps://www.instagram.com/sijae_studio/ \n",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Skaiiria",
+    "socials": "\nhttps://www.instagram.com/skaiiria/ \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, FRIEREN, SPY X FAM, JUJUTSU KAISEN\n\n"
+  },
+  {
+    "boothName": "Slightly Delusional",
+    "socials": "\nhttps://www.instagram.com/thenutdraws?igshid=YzAwZjE1ZTI0Zg%3D%3D&amp;utm_source=qr https://www.instagram.com/oedemeridae/ https://twitter.com/yh_248 https://www.instagram.com/tovffee/ \n",
+    "merchandise": "\n\nOMNISCIENT READER'S VIEWPOINT, BOCCHI THE ROCK, APEX LEGENDS, HADES, ANIMAL CROSSING, PIKMIN, YURU CAMP,&nbsp;BLACK CLOVER, SKIP&nbsp;N&nbsp;LOAFER, YOTUSBA&amp;, BALDUR’S GATE, CHRONOIR, FINAL FANTASY, BLUE&nbsp;EYE&nbsp;SAMURAI, &nbsp;LETHAL&nbsp;COMPANY, NIER AUTOMATA, KPOP, MEMES, MY LITTLE PONY AND ORIGINAL CHARACTERS\n\n"
+  },
+  {
+    "boothName": "Snackcraving &amp; KOHII",
+    "socials": "\nhttps://www.instagram.com/dreamtatochz/ https://www.instagram.com/kohiibeans/\n",
+    "merchandise": "\n\nGENSHIN, FIRE EMBLEM, PROJECT SEKAI, LEGEND OF ZELDA, ARKNIGHTS\n\n"
+  },
+  {
+    "boothTable": "A20",
+    "boothName": "Sngarila.art",
+    "socials": "\nInstagram.com/sngarila.art \n",
+    "merchandise": "\n\nJUJUTSU KAISEN, HONKAI: STAR RAIL, GENSHIN, DEMON SLAYER, CHAINSAWMAN\n\n"
+  },
+  {
+    "boothTable": "A21",
+    "boothName": "Soggy x Raredrops",
+    "socials": "\nhttps://soggy.carrd.co/#gallery , https://www.instagram.com/raredropsart/ \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, HOLOLIVE, POKEMON, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "SquishyFishyRileyTrishGal",
+    "socials": "\nhttps://www.instagram.com/squishyfishy.art/ https://twitter.com/RaiHyeon/media https://twitter.com/trcwen/media \n",
+    "merchandise": "\n\nNIJISANJI, BALDUR'S GATE 3, GUNDAM WITCH FROM MERCURY, VTUBERS, VALORANT, HAZBIN HOTEL, IDV, ARKNIGHTS, DANGANRONPA, HONKAI STAR RAIL, LEAGUE OF LEGENDS (KDA/HEARTSTEEL), GENSHIN IMPACT, B99, ATTACK ON TITAN, DND, FIVE NIGHTS AT FREDDY'S, OVERWATCH\n\n"
+  },
+  {
+    "boothName": "Star Railers",
+    "socials": "\nhttps://www.etsy.com/sg-en/shop/waywaygoodies , https://www.instagram.com/sour.core/ , https://instagram.com/snoozycrochet?igshid=OGQ5ZDc2ODk2ZA== , https://instagram.com/zhok.ae?igshid=OGQ5ZDc2ODk2ZA== \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, ORIGINAL WORKS, ATTACK ON TITAN, POKÉMON, JUJUTSU KAISEN, STUDIO GHIBLI, KIKI’S DELIVERY SERVICE, ONE PIECE, BOCCHI THE ROCK, OMORI, PLAVE\n\n"
+  },
+  {
+    "boothName": "starilights",
+    "socials": "https://twitter.com/starilights/",
+    "merchandise": "\n\nORIGINAL WORKS, ARCAEA, HONKAI STAR RAIL, HONKAI IMPACT 3RD, GENSHIN IMPACT, ARKNIGHTS, EX ASTRIS, REVERSE: 1999, OMORI, PROJECT SEKAI, NEEDY GIRL OVERDOSE, UNDERTALE\n\n"
+  },
+  {
+    "boothName": "Sunnywari",
+    "socials": "\nhttps://www.instagram.com/sunnywari/ \n",
+    "merchandise": "\n\nGHIBLI STUDIO, HONKAI: STAR RAIL, GENSHIN, SANRIO, JUJUTSU KAISEN, HAIKYUU, CSM, VALORANT, POWERPUFF GIRLS, WEDNESDAY, NEWJEANS, SPYXFAM, POKEMON, DEMON SLAYER\n\n"
+  },
+  {
+    "boothName": "takomahou",
+    "socials": "\nhttps://www.instagram.com/takomahou/?hl=en , https://www.instagram.com/solarmander/?hl=en , https://www.instagram.com/pommu_cre8s/?hl=en , https://www.instagram.com/hooded_bale/?hl=en \n",
+    "merchandise": "\n\nPOKEMON, SPIDERVERSE, GENSHIN, FATE, SHANTAE\n\n"
+  },
+  {
+    "boothName": "Takoyachi",
+    "socials": "\nhttps://spreadwater.carrd.co/, https://keikomis.carrd.co/\n",
+    "merchandise": "\n\nNIJISANJI JP, ENSEMBLE STARS, LINK CLICK, PLAVE, SHOUJO-JOSEI ANIME.\n\n"
+  },
+  {
+    "boothName": "starry._.lightt X _fl0werpot_ X m030cha",
+    "socials": "\nhttps://starry-lightt.carrd.co/, https://m030cha.carrd.co/ , https://www.instagram.com/_fl0werpot_/\n",
+    "merchandise": "\n\nORIGINAL WORKS GENSHIN IMPACT HONKAI: STAR RAIL CHAINSAW MAN PLAVE LINK CLICK HAZBIN HOTEL TGCF\n\n"
+  },
+  {
+    "boothName": "Team RRRocket",
+    "socials": "https://teamrrrocket.carrd.co/",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, PROJECT SEKAI, ARKNIGHTS, 86, MADOKA MAGICA, HOLOLIVE, NIJISANJI, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "the boba connoisseurs",
+    "socials": "\ninstagram.com/iruriraa &amp; aserora.tumblr.com ;https://www.instagram.com/moriment_o/ ;https://vgen.co/mizusaka_na/portfolio ;https://instagram.com/shizaki_704/ ; https://www.instagram.com/rocks.and.crafts \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, GHIBLI, BOCCHI THE ROCK, VALORANT, TWISTED WONDERLAND, DANMEI, PROJECT SEKAI, OCS, AKATSUKI NO YONA, NIJISANJI, PROJECT SEKAI, RECORD OF RAGNAROK, PATH TO NOWHERE, MYGO\n\n"
+  },
+  {
+    "boothName": "The Dab Shop",
+    "socials": "\nhttps://twitter.com/hephasst, https://twitter.com/_sunclown_ , https://twitter.com/Barley_Juice_ , https://twitter.com/nyacleicacid , https://twitter.com/naizues\n",
+    "merchandise": "\n\nBALDUR'S GATE 3, OMNISCIENT READER\n\n"
+  },
+  {
+    "boothName": "The Rodents",
+    "socials": "\nhttps://twitter.com/myuminji, https://www.instagram.com/zeefish.art/, https://www.instagram.com/strawberrymargeart/\n",
+    "merchandise": "\n\nTRIGUN, GENSHIN IMPACT, HONKAI STAR RAILS, DUNGEON MESHI, TWISTED WONDERLAND, PROJECT VOLTAGE AND ORIGINAL (CHARACTER) WORKS\n\n"
+  },
+  {
+    "boothName": "thebunmeo",
+    "socials": "\nhttps://www.instagram.com/thebunmeo/?hl=en \n",
+    "merchandise": "\n\nORIGINAL WORKS, SANRIO, GHIBLI\n\n"
+  },
+  {
+    "boothName": "TixiT",
+    "socials": "\nhttps://www.instagram.com/tixitzero/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, DIGIMON, POKEMON, GUNDUM\n\n"
+  },
+  {
+    "boothName": "diluc and ayato fanclub",
+    "socials": "\nhttps://www.instagram.com/txruchi/, https://www.instagram.com/furikak.3/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, TEARS OF THEMIS, VTUBERS, SPYXFAMILY, BUNGOU STRAY DOGS, ENSEMBLE STARS, CHAINSAW MAN, HEAVEN OFFICIAL'S BLESSING, TWISTED WONDERLAND\n\n"
+  },
+  {
+    "boothName": "Tomodachingus",
+    "socials": "\nIG: instagram.com/_chocolattea Twitter: twitter.com/_chocolattea Instagram: instagram.com/a_liottr Twitter: twitter.com/a_liottr Insta: instagram.com/wilkinleeart twitter: twitter.com/wilkinleeart \n",
+    "merchandise": "\n\nCRITICAL ROLE, ONE PIECE, GENSHIN, GOOD OMENS, MOB PSYCHO, AURORA, ADVENTURE TIME, SPIDERVERSE, TEEN TITANS, HATSUNE MIKU, FRIEREN, HAIKYUU, JUJUTSU KAISEN, CHAINSAW MAN, TRIGUN, DUNGEON MESHI, WITCH HAT ATELIER, DUNGEONS &amp; DRAGONS, OVER THE GARDEN WALL, MIRACULOUS LADYBUG, YOUTUBERS\n\n"
+  },
+  {
+    "boothName": "Tomyo",
+    "socials": "\nhttps://zephyryukai.carrd.co/#gallery , https://www.instagram.com/orendalies/ \n",
+    "merchandise": "\n\nHOLOSTARS, GENSHIN, IDENTITYV, HONKAI:HONKAI: STAR RAIL, NIJISANJI, SAILOR MOON, SPLATOON, POKEMON, YUGIOH, KIRBY, ANIMAL CROSSING, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "TRASHURE",
+    "socials": "\nhttps://www.instagram.com/luckyybreaker https://www.instagram.com/reitooast https://twitter.com/myhandbarfs?lang=en \n",
+    "merchandise": "\n\nACROSS THE SPIDERVERSE APOTHECARY DIARIES BERSERK BLUE LOCK CHIIKAWA DAIYA NO ACE DUNGEON MESHI FINAL FANTASY XIV FRIEREN GHIBLI GOOD OMENS JOJO'S BIZZARRE ADVENTURE JUJUTSU KAISEN LOVE AND DEEPSPACE MOB PSYCHO 100 NARUTO ORIGINAL MERCH PERSONA 3 PLAVE TIGER &amp; BUNNY VOCALOID\n\n"
+  },
+  {
+    "boothName": "Triple Space",
+    "socials": "\nhttps://www.instagram.com/laksayo/ https://www.instagram.com/chinglespace/ https://www.instagram.com/aowow_/ \n",
+    "merchandise": "\n\nNIJISANJIHONKAI: STAR RAILGENSHINFRIERENNEWJEANSNU:CARNIVALOC\n\n"
+  },
+  {
+    "boothName": "tudoubing x Andro Kerkylas",
+    "socials": "\nhttps://www.instagram.com/_tudoubing/, https://www.instagram.com/kerkylas_0f_andros/\n",
+    "merchandise": "\n\nTUDOUBING: HONKAI STARRAIL, OMNISCIENT READER'S VIEWPOINT, ACE ATTORNEY, ORIGINAL WORKSANDRO KERKYLAS: POKEMON, CHAINSAW MAN, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Two Bongo Heads + a creacher",
+    "socials": "\nhttps://twitter.com/aoikasaa , https://aoikasaa.tumblr.com/ , https://www.instagram.com/aoikasaa/ https://twitter.com/_kuroteru , https://kuroteru-art.tumblr.com/ https://www.instagram.com/takengrave/ \n",
+    "merchandise": "\n\nGENSHIN, ORIGINAL WORKS, CINDERELLA PHENOMENON, LOBOTOMY CORPORATION, LIBRARY OF RUINA, LIMBUS COMPANY, CARDCAPTOR SAKURA, UMINEKO NO NAKU KORO NI, MORIARTY THE PATRIOT, MUHYO AND ROJI'S BUREAU OF SUPERNATURAL INVESTIGATION, USOGUI, DETECTIVE CONAN, HADES (GAME), IB (RPG HORROR), HONKAI STAR RAIL\n\n"
+  },
+  {
+    "boothName": "vanilla tea works",
+    "socials": "\nhttps://www.facebook.com/vanillateaer https://www.instagram.com/vanillatea_er https://twitter.com/VanillaTea_er \n",
+    "merchandise": "\n\nARKNIGHTS, GENSHIN, FIRE EMBLEM, HONKAI: STAR RAIL, ORIGINAL CONTENT (CAT)\n\n"
+  },
+  {
+    "boothName": "Vaniraa",
+    "socials": "\nhttps://www.instagram.com/vaniraaaa/ \n",
+    "merchandise": "\n\nFFXIV, FIRE EMBLEM, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "A4",
+    "boothName": "ventihands x aloeinabox",
+    "socials": "\nhttps://www.instagram.com/ventihands/, https://www.instagram.com/aloeinabox/\n",
+    "merchandise": "\n\nBUNGOU STRAY DOGS, MORIARTY THE PATRIOT, PERCY JACKSON, THOUSAND AUTUMNS, ORV, CHAINSAW MAN, HONKAI: STAR RAIL, GENSHIN, BLACK BUTLER, REVERSE 1999, OMORI, PUNISHING GRAY RAVEN, LINK CLICK, 2HA, SHERLOCK BBC, SPIDERVERSE, MOON KNIGHT, GUARDIAN, EPIC OF DIVINITY LIGHT, WORD OF HONOR, SPY X FAMILY\n\n"
+  },
+  {
+    "boothName": "Fur✰Point",
+    "socials": "\n\"https://www.instagram.com/napschnapps/ \"https://www.instagram.com/wee_radish/ \"https://www.instagram.com/theduckarts/ \n",
+    "merchandise": "\n\nNAPSCHNAPPS - GOOD OMENS, DC, LEGEND OF ZELDA, JOJO'S BIZARRE ADVENTURERADISH - GOOD OMENS, POKEMON, CHAINSAWMAN, MOB PSYCHO 100, JOJO'S BIZARRE ADVENTUREMIZU - HONKAI IMPACT 3RD, IDENTITY V, PATH TO NOWHERE, GENSHIN, ARKNIGHTS, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Winter's Tales",
+    "socials": "\nhttps://linkpop.com/winters-tales \n",
+    "merchandise": "\n\nPOKEMONONE PIECESPY × FAMILYCHAINSAW MANMOB PSYCHO 100ONE-PUNCH MANSAIKI KUSUO NO PSY NANGOKUSHUFUDOU: WAY OF THE HOUSEHUSBANDFIRE FORCEPROMAREMASHLE: MAGIC &amp; MUSCLESGENSHINKINGDOM HEARTS IIIFINAL FANTASY VII REMAKECAMPFIRE COOKING IN ANOTHER WORLD WITH MY ABSURD SKILLSORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "IDKWWAD",
+    "socials": "\nhttps://www.instagram.com/xia0ming56/, https://twitter.com/xia0ming56, https://www.instagram.com/zxcantdrawmen\n",
+    "merchandise": "\n\nFATE GRAND ORDER, GENSHIN, MARVEL, MY HERO ACADEMIA, HONKAI IMPACT, HONKAI: STAR RAIL (MORE MAY BE ADDED IF WE CAN MAKE THEM IN TIME)\n\n"
+  },
+  {
+    "boothTable": "A27,A28",
+    "boothName": "xixipencil + jrpencil",
+    "socials": "\nhttp://instagram.com/xixipencil http://instagram.com/jrpencil88 \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, VALORANT, GENSHIN, NIKKE.\n\n"
+  },
+  {
+    "boothName": "Yamicinooo",
+    "socials": "https://vgen.co/Akara",
+    "merchandise": "\n\nORIGINAL WORKS, FFXIV, HONKAI STAR RAIL, GENSHIN\n\n"
+  },
+  {
+    "boothName": "Yard Sard EXPRESS",
+    "socials": "\nhttps://yardsardexpress.carrd.co/# \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL, JUJUTSU KAISEN, PARADOX LIVE, ACE ATTORNEY, MADS MIKKELSEN, KIRBY, ORIGINAL CHARACTERS\n\n"
+  },
+  {
+    "boothName": "pancake&amp;honey",
+    "socials": "-",
+    "merchandise": "\n\nU-SAN HOLOARMIS DESSERT ART POKEMON/MIKU FRIEREN BOCCHI THE ROCK! SKIP AND LOAFER JUJUTSU KAISEN PLAVE ALIEN STAGE ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Yours Yarnly",
+    "socials": "\nhttps://www.instagram.com/yoursyarnly/ \n",
+    "merchandise": "\n\nPOKEMON, GENSHIN AND ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "Yueimin",
+    "socials": "\nhttps://yueimin.carrd.co/ (Group Portfolio)Individual Artist: Toydreamer - https://www.instagram.com/toydreamer Yue - https://www.instagram.com/tsugomori_art Flovefy - https://www.instagram.com/flfy_x \n",
+    "merchandise": "\n\n• HEAVEN OFFICIAL'S BLESSING• HAIKYUU!• HADES GAME• TRIGUN STAMPEDE• MY NEW BOSS IS GOOFY• SPIDERVERSE• JUJUTSU KAISEN• ONE PIECE• POKEMON• DUNGEON MESHI• MDZS• ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "yume.kat.knight x 7ongspalette x yume's shop",
+    "socials": "https://www.instagram.com/yumes.shop/",
+    "merchandise": "\n\nGENSHIN, OSHI NO KO, SPY X FAMILY, CHAINSAW MAN , ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothName": "goofy ahhh-rtists",
+    "socials": "\nhttps://instagram.com/yumennonaka , https://instagram.com/mochi_mallow , https://instagram.com/nao333_ \n",
+    "merchandise": "\n\n• GENSHIN• VTUBERS• VOCALOID• ORIGINAL WORKS• HONKAI: STAR RAIL• OTHER ANIME\n\n"
+  },
+  {
+    "boothName": "yumes.shop &amp; kyuutiekat_cafe",
+    "socials": "\nhttps://www.instagram.com/yumes.shop/, https://linktr.ee/KyuutieKatCafe\n",
+    "merchandise": "\n\nHONKAI: STAR RAIL, GENSHIN, SPY X FAMILY, ARKNIGHTS, HATSUNE MIKU, OSHI NO KO, ZELDA, SANRIO, NARUTO, MOBILE LEGENDS BANG BANG, BOCCHI THE ROCK, ORIGINAL WORKS.\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Zellie's Koi Pond",
+    "socials": "https://www.instagram.com/zellieskoipond/",
+    "merchandise": "\n\nORIGINAL WORKS, VALORANT, LEAGUE OF LEGENDS, ARCANE, JUJUTSU KAISEN, ONE PIECE, ADVENTURE TIME\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "ZENMETSU SAKUSEN",
+    "socials": "\nVentobento.carrd.co \n",
+    "merchandise": "ARKNIGHTS"
+  },
+  {
+    "boothTable": "A23",
+    "boothName": "一夜暴富",
+    "socials": "\nhttps://linktr.ee/ichiya_777 \n",
+    "merchandise": "\n\nNIJISANJI, HOLOLIVE, PLAVE, EVAGELION, OSHI NO KO, ETC\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "游戏我只玩第五人格",
+    "socials": "\nhttps://www.xiaohongshu.com/user/profile/6252dcc0000000001000b246?xhsshare=CopyLink&amp;appuid=5b78df962cc31d00018cc01b&amp;apptime=1702569533 \n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Aiko._.ibara",
+    "socials": "https://www.instagram.com/aiko._.ibara/",
+    "merchandise": "\n\nTWISTED WONDERLANDBLACK BUTLERBALDUR'S GATE 3GENSHINSPIDERVERSEARCANEORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Cheexy studio x Sushihoshii",
+    "socials": "\nhttps://cheexystudio.carrd.co/, https://sushihoshii.carrd.co/\n",
+    "merchandise": "\n\nORIGINAL, JUJUTSU KAISEN, HAIKYUU, GENSHIN, CHAINSAW MAN, DUNGEON MESHI, KPOP\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "zuzuririn",
+    "socials": "\nhttps://twitter.com/enzumeii , https://instagram.com/enzumeii , https://twitter.com/creamyferin , https://instagram.com/creamyferin \n",
+    "merchandise": "\n\nGENSHIN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "FPSMOE",
+    "socials": "https://twitter.com/fpsmoe/status/1730111506619191456 ",
+    "merchandise": "\n\nBLUE ARCHIVE, HOLOLIVE\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "halcyn",
+    "socials": "https://www.instagram.com/halcyn_/ ",
+    "merchandise": "\n\nORIGINAL WORKS, YU-GI-OH!!, SPLATOON, BOCCHI THE ROCK!!\n\n"
+  },
+  {
+    "boothTable": "A32",
+    "boothName": "peachizura x _thequeeny x kardiodiatos",
+    "socials": "\nIZURA: www.instagram.com/peachizura ,SAKI: https://www.instagram.com/_thequeeny/ ,BASIL: https://www.instagram.com/kardiodiatos ,CHIKUN: https://twitter.com/sleepslut \n",
+    "merchandise": "\n\nIZURA: HAIKYUU, OURAN, TOKYO REVENGERS, BLUE LOCK, NIJISANJI JP/KR, ENSTARS, UTAITE (SORAMAFU, ADO, EVE), MAID-SAMA, GOJO, NO FACE, SHIN CHAN, ORIGINAL WORKS SAKI: PLAVE, LOVE &amp; DEEPSPACE, TEAR OF THEMIS, ENSEMBLE STARS, CHRONOIR, ORIGINAL WORKS BASIL: OMORI, DELTARUNE, NINTENDO ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "KA1ZEN",
+    "socials": "\nhttps://www.instagram.com/byka1zen/ \n",
+    "merchandise": "\n\nJUJUTSU KAISEN\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Rairii",
+    "socials": "\nhttps://rairii.myportfolio.com/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, GENSHIN, NIJISANJI, JUJUTSU KAISEN\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Epic Tale",
+    "socials": "\nhttps://www.instagram.com/vf_artsketch/ , https://www.instagram.com/kartasuharta/ , https://twitter.com/StarrieSeri \n",
+    "merchandise": "\n\nCLAMP, ENNEAD, PEPE THE FROG, ORIGINAL WORKS, HAZBIN HOTEL, LOVE AND DEEP SPACE, DUNGEON MESHI, ENNEAD, TEARS OF THE KINGDOM, TRIGUN STAMPEDE\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "DeluSolu (previously the losers)",
+    "socials": "https://www.tumblr.com/doudou4",
+    "merchandise": "\n\nGENSHIN, NIJISANJI, HOLOPRO, TWISTED WONDERLAND, PROJECT SEKAI, VALORANT, MAHOYAKU, HORIMIYA, PARALIVE, WELCOME TO DEMON SCHOOL IRUMA\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "marooillust x frozoyo",
+    "socials": "\nhttps://www.instagram.com/marooillust/ , https://frozoyo.carrd.co , https://linktr.ee/marooillust \n",
+    "merchandise": "\n\nGENSHIN, HONKAI STAR RAIL, AVATAR: THE LAST AIRBENDER, HADES (GAME), HATSUNE MIKU, FRUITS BASKET, SKIP AND LOAFER, THE LEGEND OF ZELDA, OTHER ASSORTED GAMES AND ANIMES, AND ORIGINAL CHARACTERS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Random Snow Tea",
+    "socials": "\nhttps://chakos.carrd.co/, https://www.instagram.com/random_doodle5 , https://www.instagram.com/_yukinoya_/\n",
+    "merchandise": "\n\nGENSHIN, HONKAI IMPACT 3RD, IKEMEN SERIES, TWISTED WONDERLAND, VTUBERS, ORIGINAL CHARACTERS, MXTX, HONKAI STAR RAIL, ORV\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Kiwiji",
+    "socials": "\nhttps://www.instagram.com/kiwiji_arts/ , https://vgen.co/Kiwiji/portfolio \n",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Purring Cat Co",
+    "socials": "\nhttps://www.instagram.com/purringcatco/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, HARRY POTTER, STUDIO GHIBLI (UPCOMING)\n\n"
+  },
+  {
+    "boothName": "Chris P. Bacon",
+    "socials": "\nhttps://instagram.com/makuroni360 , https://instagram.com/ametsuu , https://instagram.com/rannnome \n",
+    "merchandise": "\n\nPROJECT SEKAI, MXTX NOVELS, HONKAI STAR RAIL, GENSHIN, ENSEMBLE STARS, TWISTED WONDERLAND, ORIGINAL WORKS, LINK CLICK\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "MYUN.CO",
+    "socials": "\nshopee.co.id/myun.co.id \n",
+    "merchandise": "\n\nORIGINAL WORKS, ADVENTURE TIME\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Nanaabananaa",
+    "socials": "\nhttps://instagram.com/nanaa_uwawa93?igshid=MXJkdXozZDdndXB2NQ== \n",
+    "merchandise": "\n\nORIGINAL WORKS, HOLOLIVE, CHAINSAW MAN, SPYFAMILY, GRANBLUE FANTASY, GIRLSFRONTLINE\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Wyrrd Rune",
+    "socials": "https://www.instagram.com/wyrrdrune/"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Genmatcha",
+    "socials": "\nhttps://komoillustrations.carrd.co , https://xoeiiuyaportfolio.carrd.co \n",
+    "merchandise": "\n\nFFXIV, GENSHIN, HONKAI STARAIL, ARKNIGHTS, BALDUR'S GATE 3, REVERSE 1999, LETHAL COMPANY, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Hamborgor",
+    "socials": "https://www.instagram.com/mystraex/",
+    "merchandise": "\n\nGENSHIN, HONKAI STAR RAIL, SKY CHILDREN OF THE LIGHT, STUDIO GHIBLI, BUNGOU STRAY DOGS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Woodlands",
+    "socials": "https://nyaart13ddamkt.carrd.co/",
+    "merchandise": "\n\nHANDMADE CRAFTS, GENSHIN, HONKAI STAR RAIL, VTUBER, CARDCAPTOR SAKURA, TOILET BOUND HANAKO KUN, SPIRITED AWAY, HOWL'S MOVING CASTLE, THE SECRET WORLD OF ARRIETTY, MADOKA MAGICA, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "A26",
+    "boothName": "Heather Designs",
+    "socials": "https://linktr.ee/Heather_designs",
+    "merchandise": "\n\nORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "blob_blob_bloop",
+    "socials": "\nhttps://blob-catalogue.carrd.co/ \n",
+    "merchandise": "\n\nORIGINAL WORKS, VOCALOID, HONKAI: STAR RAIL, GENSHIN IMPACT, BOCCHI THE ROCK!, KIRBY, ANIME/GAME FANART\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Meyyen and Elizabeth The Severe",
+    "socials": "\nhttps://elizabeththesevere.com/ , https://www.meyyen.com/ \n",
+    "merchandise": "\n\nAVATAR THE LAST AIRBENDER, LEGEND OF ZELDA, BALDUR'S GATE 3, GAME OF THRONES, SCOTT PILGRI, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "HalfwhiteBee",
+    "socials": "\nhttps://www.instagram.com/halfwhitebee \n",
+    "merchandise": "\n\nVALORANT, HADES, HAIKYUU, DEMON SLAYER, BNHA, ARCANE, MARVEL, ORIGINAL WORKS, OTHER VARIOUS GAME AND SHOW TITLES\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "shuen &amp; breadies",
+    "socials": "\nhttps://www.instagram.com/breadies.munchies/ , https://www.instagram.com/shuen2145/\n",
+    "merchandise": "\n\nJOJO'S BIZARRE ADVENTURE, GENSHIN, QSMP, UTAITES, GUILTY GEAR STRIVE, BLUE PERIOD\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Paws",
+    "socials": "\nhttps://vgen.co/paws0308/portfolio \n",
+    "merchandise": "\n\nFRIEREN, A SIGN OF AFFECTION, POKEMON MIKU, OMORI, TOILET BOUND HANAKO KUN, SKIP TO LOAFER, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "A25",
+    "boothName": "The Confetti Hands",
+    "socials": "\nhttps://www.behance.net/racheldivya (@theconfettihands)\n",
+    "merchandise": "\n\nHARRY POTTER, STUDIO GHIBLI, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Haze",
+    "socials": "https://linktr.ee/ha_.ze",
+    "merchandise": "\n\nGENSHIN, TOKYO REVENGERS, BLUE LOCK, JUJUTSU KAISEN, HONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Gacha Cafe",
+    "socials": "\nhttps://instagram.com/puyachan , https://instagram.com/tzrart \n",
+    "merchandise": "\n\nGENSHIN IMPACT, HONKAI: STAR RAIL, BLUE ARCHIVE, FFXIV, TEARS OF THEMIS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "KuroVelle ft Hina",
+    "socials": "\nhttps://www.instagram.com/hina_4rts/ , https://linktr.ee/kuroki_links , https://linktr.ee/civelle \n",
+    "merchandise": "\n\n- GENSHIN - HARRY POTTER - IDENTITY V - PROJECT SEKAI - LOUT OF THE COUNT'S FAMILY - DEMON SLAYER - OMNISCIENT READER'S VIEWPOINT - SPIDERVERSE - BOBOIBOY\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "BunnyAndYarn",
+    "socials": "https://linktr.ee/bunnyandyarn",
+    "merchandise": "\n\nPOKÉMON, ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Circle Works",
+    "socials": "\nhttps://twitter.com/Gznf1221 https://www.pixiv.net/users/33611048 https://www.facebook.com/profile.php?id=61555066996146 \n",
+    "merchandise": "BLUE ARCHIVE"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Pure Reverie",
+    "socials": "\nhttps://twitter.com/Coria_tu https://www.pixiv.net/users/27848445 https://www.facebook.com/profile.php?id=61553216692742 \n",
+    "merchandise": "\n\nHONKAI: STAR RAIL\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Rabbit Candy",
+    "socials": "\nhttps://twitter.com/usagi_takumichi https://www.pixiv.net/users/7774279 https://www.facebook.com/rabcandytaku \n",
+    "merchandise": "\n\nIS THE ORDER A RABBIT?\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Napyonz",
+    "socials": "\nhttps://www.instagram.com/napyonz , https://www.napyonz.com \n",
+    "merchandise": "\n\nORIGINAL WORK, HOLOLIVE, TAMAGOTCHI, FRIEREN, BOCHI THE ROCK, KIRBY, ZELDA, SPY FAMILY\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "__DrawStuff__",
+    "socials": "\nhttps://www.instagram.com/__drawstuff__ \n",
+    "merchandise": "\n\nHOLOLIVE , VTUBERS , ANIME , GAMES , ORIGINAL\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "CowMinFox",
+    "socials": "\nhttps://linktr.ee/yolminko \n",
+    "merchandise": "\n\nCHAINSAW MAN, NIJISANJI, HOLOLIVE, ONE PIECE\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Meijin Don",
+    "socials": "https://meijindon.tumblr.com/",
+    "merchandise": "\n\nGENSHIN, DND, PERSONA 5, ORIGINAL WORK\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Munchkins",
+    "socials": "\nhttps://instagram.com/lighthazelstream, https://instagram.com/sheenosaito , https://x.com/chuminamoto \n",
+    "merchandise": "\n\nKINGDOM HEARTS, FINAL FANTASY, HONKAI STAR RAIL, POKEMON, RANDOM ANIME SERIES, ORIGINAL WORK, LOVE &amp; DEEPSPACE, MONSTER HUNTER\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Kopikochai",
+    "socials": "www.artstation.com/kopikochai",
+    "merchandise": "\n\n- GENSHIN IMPACT- ACE ATTORNEY- THE GREAT ACE ATTORNEY- BLUEY- WITCH HAT ATELIER- VINLAND SAGA- MAIRIMASHITA IRUMA-KUN- DUNGEON MESHI- HAZBIN HOTEL/HELLUVA BOSS- HAIKYUU (BATTLE AT THE TRASH HEAP)- KIRBY- W.I.T.C.H- RED CAT RAMEN- TOTALLY SPIES- HEARTSTEEL- MUSICALS- BALDUR'S GATE 3- WOTAKOI- HADES- ORIGINAL WORKS\n\n"
+  },
+  {
+    "boothTable": "A33",
+    "boothName": "Kemono Mimi Shrine(KMS)",
+    "socials": "\nhttps://www.instagram.com/nerophic/ , http://instagram.com/dear_cshop/ , https://www.facebook.com/LeianyxArt \n",
+    "merchandise": "\n\nVTUBERS, FINAL FANTASY XIV, GOOD OMENS, VOCALOID, GENSHIN IMPACT, PUNISHING GRAY RAVEN, ANIMAL CROSSING, CARD CAPTOR SAKURA, HONKAI STAR RAIL, ORIGINAL WORK\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Saera Ambush",
+    "socials": "\nSaera: https://twitter.com/artist_saera or https://erraatiq22h.wixsite.com/saera Ambush: https://www.instagram.com/franambush/\n",
+    "merchandise": "\n\nACE ATTORNEY, FIRE EMBLEM, YUGIOH, PERSONA, TEKKEN\n\n"
+  },
+  {
+    "boothTable": "",
+    "boothName": "Dorodoroarts",
+    "socials": "https://www.instagram.com/dorodoroarts/"
+  }
+]
