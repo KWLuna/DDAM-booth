@@ -1,12 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>DDAM Booth</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>DDAM Booth</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+    /* CSS to limit the size of table cells */
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    th, td {
+      max-width: 200px; /* Adjust the value as needed */
+      overflow: hidden;
+      text-overflow: ellipsis; /* Truncate text if it exceeds the max width */
+      white-space: nowrap; /* Prevent wrapping */
+      border: 1px solid #ddd; /* Add borders for better visibility */
+      padding: 8px;
+    }
+  </style>
 </head>
 <body>
 
@@ -18,9 +33,6 @@
     <a href="#contact" class="w3-bar-item w3-button w3-padding-large w3-hide-small">CONTACT</a>
     <a href="#boothers" class="w3-bar-item w3-button w3-padding-large w3-hide-small">BOOTHERS</a>
     
-</div>
-    <a href="javascript:void(0)" class="w3-padding-large w3-hover-red w3-hide-small w3-right"><i class="fa fa-search"></i></a>
-    </div>
 </div>
 
 <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
